@@ -1,0 +1,6363 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "classnames": "project-item green villa",
+      "srcimg": "/assets/img/project/PS-150.png",
+      "heading": "PANEL SAW (PS-150T)",
+      "name01": "Holzmac",
+      "name02": "PS-150T",
+      "slug": "panel-saw-150",
+      "content": [],
+      "model_one": "PS-150T",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Dimensions of Sliding Table",
+          "specs": [
+            "1500 x 310mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Ripping Capacity",
+          "specs": [
+            "900mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Height of cut ",
+          "specs": [
+            "70mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main Saw Size ",
+          "specs": [
+            "300 x 30mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of main saw blade ",
+          "specs": [
+            "4500/6000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for main saw",
+          "specs": [
+            "3KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Scoring Saw Size ",
+          "specs": [
+            "120 x 20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of Scoring Saw",
+          "specs": [
+            "8000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for Scoring Saw ",
+          "specs": [
+            "0.75KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust Chute Diameter",
+          "specs": [
+            "100MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight (Approx.)",
+          "specs": [
+            "550 Kgs."
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "classnames": "project-item green villa",
+      "srcimg": "/assets/img/project/ps-300.png",
+      "heading": "PANEL SAW (PS-300T)",
+      "name01": "Holzmac",
+      "name02": "PS-300T",
+      "slug": "panel-saw-300",
+      "content": [
+        {
+          "description": "Sturdily built heavy duty machine made from thick steel frame. (5mm thick steel)"
+        },
+        {
+          "description": "Sliding Table ensuring smooth travel and cutting accuracy."
+        },
+        {
+          "description": "Raising , lowering & Tilting of the blade is by hand wheel"
+        },
+        {
+          "description": "Extended supports for large panels are provided"
+        }
+      ],
+      "model_one": "PS-300T",
+      "model_two": "PS-315",
+      "specifications": [
+        {
+          "heading": "Ripping Capacity",
+          "specs": [
+            "1250mm"
+          ],
+          "anotherSpecs": [
+            "1250mm"
+          ]
+        },
+        {
+          "heading": "Angle of blade tilting",
+          "specs": [
+            "45 degree"
+          ],
+          "anotherSpecs": [
+            "45 degree"
+          ]
+        },
+        {
+          "heading": "Main Saw Size",
+          "specs": [
+            "300-350 x 30mm"
+          ],
+          "anotherSpecs": [
+            "300 x 30mm"
+          ]
+        },
+        {
+          "heading": "Speed of main saw blade",
+          "specs": [
+            "4500/6000rpm"
+          ],
+          "anotherSpecs": [
+            "4500/6000rpm"
+          ]
+        },
+        {
+          "heading": "Motor Power for main saw",
+          "specs": [
+            "7.5 HP"
+          ],
+          "anotherSpecs": [
+            "5 HP"
+          ]
+        },
+        {
+          "heading": "Scoring Saw Size",
+          "specs": [
+            "120x20mm"
+          ],
+          "anotherSpecs": [
+            "120x20mm"
+          ]
+        },
+        {
+          "heading": "Speed of Scoring Saw",
+          "specs": [
+            "8000rpm"
+          ],
+          "anotherSpecs": [
+            "8000rpm"
+          ]
+        },
+        {
+          "heading": "Motor Power for Scoring Saw",
+          "specs": [
+            "0.75KW"
+          ],
+          "anotherSpecs": [
+            "0.75KW"
+          ]
+        },
+        {
+          "heading": "Dust Chute Diameter",
+          "specs": [
+            "100MM"
+          ],
+          "anotherSpecs": [
+            "100MM"
+          ]
+        },
+        {
+          "heading": "Maximum Height of Cut",
+          "specs": [
+            "80MM"
+          ],
+          "anotherSpecs": [
+            "75MM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "classnames": "project-item green villa",
+      "srcimg": "/assets/img/project/punto-350.png",
+      "heading": "PANEL SAW (PUNTO-350)",
+      "name01": "Holzmac",
+      "name02": "Punto-350",
+      "slug": "panel-saw-punto-350",
+      "content": [
+        {
+          "description": "Sturdily built heavy duty machine made from thick steel frame (6mm Thick Steel Sheet)"
+        },
+        {
+          "description": "Sliding Table ensuring smooth travel and cutting accuracy."
+        },
+        {
+          "description": "Raising , lowering & Tilting of the blade is by hand wheel"
+        },
+        {
+          "description": "Extended supports for large panels are provided"
+        }
+      ],
+      "model_one": "PUNTO-350",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Dimensions of Sliding Table",
+          "specs": [
+            "3200 x 400mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Ripping Capacity",
+          "specs": [
+            "1300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Angle of blade tilting",
+          "specs": [
+            "45 degree"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main Saw Size",
+          "specs": [
+            "300-350 x 30mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of main saw blade",
+          "specs": [
+            "4500/6000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for main saw",
+          "specs": [
+            "7.5 HP"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Scoring Saw Size",
+          "specs": [
+            "120x20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of Scoring Saw",
+          "specs": [
+            "8000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for Scoring Saw",
+          "specs": [
+            "1.1KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust Chute Diameter",
+          "specs": [
+            "100MM"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/beam-saw.png",
+      "heading": "BEAM SAW",
+      "name01": "Holzmac",
+      "name02": "(BS-320AT/R), (BS-260AT/R)",
+      "slug": "beam-saw",
+      "content": [
+        {
+          "description": "AT with Air Float Tables"
+        },
+        {
+          "description": "R with Roller Tables"
+        }
+      ],
+      "model_one": "(BS-320AT/R)",
+      "model_two": "(BS-260AT/R)",
+      "specifications": [
+        {
+          "heading": "Max. Cutting length ",
+          "specs": [
+            "3200mm"
+          ],
+          "anotherSpecs": [
+            "2600mm"
+          ]
+        },
+        {
+          "heading": "Max. Cutting thickness",
+          "specs": [
+            "76mm"
+          ],
+          "anotherSpecs": [
+            "76mm"
+          ]
+        },
+        {
+          "heading": "Main saw blade size",
+          "specs": [
+            "350x30mm"
+          ],
+          "anotherSpecs": [
+            "350x30mm"
+          ]
+        },
+        {
+          "heading": "Speed of Main saw blade",
+          "specs": [
+            "4800rpm"
+          ],
+          "anotherSpecs": [
+            "4800rpm"
+          ]
+        },
+        {
+          "heading": "Scoring saw blade size",
+          "specs": [
+            "180x30mm"
+          ],
+          "anotherSpecs": [
+            "180x30mm"
+          ]
+        },
+        {
+          "heading": "Speed of scoring saw blade",
+          "specs": [
+            "6500rpm"
+          ],
+          "anotherSpecs": [
+            "6500rpm"
+          ]
+        },
+        {
+          "heading": "Forward speed of saw carriage ",
+          "specs": [
+            "0-37m/min"
+          ],
+          "anotherSpecs": [
+            "0-37m/min"
+          ]
+        },
+        {
+          "heading": "Backward speed of saw carriage",
+          "specs": [
+            "45m/min"
+          ],
+          "anotherSpecs": [
+            "45m/min"
+          ]
+        },
+        {
+          "heading": "Motor of Main Saw blade",
+          "specs": [
+            "7.5KW"
+          ],
+          "anotherSpecs": [
+            "7.5KW"
+          ]
+        },
+        {
+          "heading": "Motor of saw carriage",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": [
+            "1.5KW"
+          ]
+        },
+        {
+          "heading": "Pneumatic pressure",
+          "specs": [
+            "5-6kg/cm"
+          ],
+          "anotherSpecs": [
+            "5-6kg/cm²"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/eb-smart.png",
+      "heading": "CURVILINEAR EDGE BANDER (EB-SMART)",
+      "name01": "Holzmac",
+      "name02": "EB-Smart",
+      "slug": "eb-smart",
+      "content": [
+        {
+          "description": "Digital temperature controller is provided which allows starting the feed motor Only when glue melts and reached the set temperature."
+        },
+        {
+          "description": "Hard and ground table with hylum surface for smooth movement of work piece."
+        },
+        {
+          "description": "Electronic inverter is provided for variable speed of glue roller."
+        }
+      ],
+      "model_one": "EB-SMART",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Edge width",
+          "specs": [
+            "10-50m"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edging thickness",
+          "specs": [
+            "0.3-3mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. work piece length",
+          "specs": [
+            "280mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. working radius",
+          "specs": [
+            "20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feeding Speed",
+          "specs": [
+            "0-18 mtrs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Heating Power",
+          "specs": [
+            "1.2 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feed Motor ",
+          "specs": [
+            "0.2KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Glue pot capacity ",
+          "specs": [
+            "2 kgs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max.Temperature setting",
+          "specs": [
+            "200°"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Compressed air pressure",
+          "specs": [
+            "5-7 Kg/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power supply",
+          "specs": [
+            "415V3 phase"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight (Approx) ",
+          "specs": [
+            "375kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/eb-smart-plus.png",
+      "heading": "CURVILINEAR EDGE BANDER & TRIMMER (EB SMART+)",
+      "name01": "Holzmac",
+      "name02": "EB Smart+",
+      "slug": "eb-smart-plus",
+      "content": [],
+      "model_one": "EB SMART+",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Total Power",
+          "specs": [
+            "5.65kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Sealing Edge Diameter",
+          "specs": [
+            "2500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air Pressure",
+          "specs": [
+            "0.6-0.8mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Applicable Thickness of Edge Band",
+          "specs": [
+            "0.3-3mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edge Banding Speed",
+          "specs": [
+            "0-18m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edge Band Width",
+          "specs": [
+            "10-55mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Minimum Radius of Inner Arc",
+          "specs": [
+            "20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Glue Pot Capacity",
+          "specs": [
+            "2L"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cet-50.png",
+      "heading": "AUTOMATIC CURVILINEAR EDGE BANDING & TRIMMING MACHINE (CET-50)",
+      "name01": "Holzmac",
+      "name02": "CET-50",
+      "slug": "automatic-curvilinear-edge-banding",
+      "content": [],
+      "model_one": "CET-50",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "2.95kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feed Speed",
+          "specs": [
+            "3m/min, 7m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Panel thickness",
+          "specs": [
+            "10-60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edge Thickness",
+          "specs": [
+            "1-3mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. of the panel",
+          "specs": [
+            "1000x2000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. weight of the pane",
+          "specs": [
+            "40 kg"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. flowing of the dust collection",
+          "specs": [
+            "360m³/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dia of tie dot",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Net Weight",
+          "specs": [
+            "480kg"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/TF-3.png",
+      "heading": "AUTOMATIC THROUGH FEED EDGE BANDING MACHINE (TF-3)",
+      "name01": "Holzmac",
+      "name02": "TF-3",
+      "slug": "edge-banding-machine-tf-3",
+      "content": [
+        {
+          "description": "Featured with Pre-Milling , edging, end cutting, top & bottom trimming and Profile scrapping units."
+        },
+        {
+          "description": "Heavy duty Sturdily built machine for long lasting operation."
+        },
+        {
+          "description": "Robust Guide system for feed chain to give effective pressure on the workpiece"
+        }
+      ],
+      "model_one": "TF-2",
+      "model_two": "TF-3",
+      "model_three": "TF-3PM",
+      "specifications": [
+        {
+          "heading": "Panel thickness (Min.-Max.)",
+          "specs": [
+            "10-45mm"
+          ],
+          "anotherSpecs": [
+            "10-45mm"
+          ],
+          "anotherSpecsTwo": [
+            "10-45mm"
+          ]
+        },
+        {
+          "heading": "Min. Panel width ",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": [
+            "60mm"
+          ],
+          "anotherSpecsTwo": [
+            "60mm"
+          ]
+        },
+        {
+          "heading": "Min. Panel length ",
+          "specs": [
+            "120mm"
+          ],
+          "anotherSpecs": [
+            "120mm"
+          ],
+          "anotherSpecsTwo": [
+            "120mm"
+          ]
+        },
+        {
+          "heading": "Max. Tape thickness",
+          "specs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecsTwo": [
+            "0.4-3mm"
+          ]
+        },
+        {
+          "heading": "Feeding speed",
+          "specs": [
+            "9mtrs/min"
+          ],
+          "anotherSpecs": [
+            "9mtrs/min"
+          ],
+          "anotherSpecsTwo": [
+            "9mtrs/min"
+          ]
+        },
+        {
+          "heading": "Installed power",
+          "specs": [
+            "6KW"
+          ],
+          "anotherSpecs": [
+            "6KW"
+          ],
+          "anotherSpecsTwo": [
+            "6KW"
+          ]
+        },
+        {
+          "heading": "Pneumatic pressure",
+          "specs": [
+            "6kg/cm²"
+          ],
+          "anotherSpecs": [
+            "6kg/cm²"
+          ],
+          "anotherSpecsTwo": [
+            "6kg/cm²"
+          ]
+        },
+        {
+          "heading": "Max. Temperature Range ",
+          "specs": [
+            "230°C"
+          ],
+          "anotherSpecs": [
+            "230°C"
+          ],
+          "anotherSpecsTwo": [
+            "230°C"
+          ]
+        },
+        {
+          "heading": "Weight (approx.)",
+          "specs": [
+            "550 kgs"
+          ],
+          "anotherSpecs": [
+            "600 kgs"
+          ],
+          "anotherSpecsTwo": [
+            "800 kgs"
+          ]
+        },
+        {
+          "heading": "Functions",
+          "specs": [
+            "End Trimming",
+            "Top & Bottom Trimming"
+          ],
+          "anotherSpecs": [
+            "End Trimming",
+            "Top & Bottom Trimming",
+            "Profile scrapping "
+          ],
+          "anotherSpecsTwo": [
+            "Pre-Milling",
+            "End Trimming",
+            "Top & Bottom Trimming",
+            "Profile scrapping "
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "classnames": "project-item villa architecture building construction",
+      "srcimg": "/assets/img/project/TF-6.png",
+      "heading": "AUTOMATIC THROUGH FEED EDGE BANDING MACHINE (TF-6)",
+      "name01": "Holzmac",
+      "name02": "TF-6",
+      "slug": "edge-banding-machine-tf-6",
+      "content": [],
+      "model_one": "TF-4",
+      "model_two": "TF-5",
+      "model_three": "TF-6",
+      "specifications": [
+        {
+          "heading": "Trimming working height",
+          "specs": [
+            "10-50mm"
+          ],
+          "anotherSpecs": [
+            "10-50mm"
+          ],
+          "anotherSpecsTwo": [
+            "10-50mm"
+          ]
+        },
+        {
+          "heading": "Rounder working height",
+          "specs": [
+            "10-45mm"
+          ],
+          "anotherSpecs": [
+            "10-50mm"
+          ],
+          "anotherSpecsTwo": [
+            "10-50mm"
+          ]
+        },
+        {
+          "heading": "Thickness of edges in rolls",
+          "specs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecsTwo": [
+            "0.4-3mm"
+          ]
+        },
+        {
+          "heading": "Feeding speed",
+          "specs": [
+            "12-15-18m/min"
+          ],
+          "anotherSpecs": [
+            "12-15-18m/min"
+          ],
+          "anotherSpecsTwo": [
+            "12-15-18m/min"
+          ]
+        },
+        {
+          "heading": "Glue Capacity",
+          "specs": [
+            "2 Kg"
+          ],
+          "anotherSpecs": [
+            "2 Kg"
+          ],
+          "anotherSpecsTwo": [
+            "2 Kg"
+          ]
+        },
+        {
+          "heading": "Heating time",
+          "specs": [
+            "15min"
+          ],
+          "anotherSpecs": [
+            "15min"
+          ],
+          "anotherSpecsTwo": [
+            "15min"
+          ]
+        },
+        {
+          "heading": "Pre-Milling Unit Power",
+          "specs": [
+            "---"
+          ],
+          "anotherSpecs": [
+            "---"
+          ],
+          "anotherSpecsTwo": [
+            "3KW"
+          ]
+        },
+        {
+          "heading": "End-cutting unit Power",
+          "specs": [
+            "0.75KW"
+          ],
+          "anotherSpecs": [
+            "0.75KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.75KW"
+          ]
+        },
+        {
+          "heading": "Trimming Unit Power",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "1.5 KW"
+          ],
+          "anotherSpecsTwo": [
+            "1.5 KW"
+          ]
+        },
+        {
+          "heading": "Corner Rounding unit Power",
+          "specs": [
+            "---"
+          ],
+          "anotherSpecs": [
+            "0.75KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.75KW"
+          ]
+        },
+        {
+          "heading": "Brushing Unit Power",
+          "specs": [
+            "0.36KW"
+          ],
+          "anotherSpecs": [
+            "0.36KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.36KW"
+          ]
+        },
+        {
+          "heading": "Feed Motor Power",
+          "specs": [
+            "4KW"
+          ],
+          "anotherSpecs": [
+            "4KW"
+          ],
+          "anotherSpecsTwo": [
+            "4KW"
+          ]
+        },
+        {
+          "heading": "Functions ",
+          "specs": [
+            "End Trimming",
+            "Top & Bottom Trimming",
+            "Profile scrapping",
+            "Buffing"
+          ],
+          "anotherSpecs": [
+            "End Trimming",
+            "Top & Bottom Trimming",
+            "Corner Rounding",
+            "Profile scrapping",
+            "Buffing"
+          ],
+          "anotherSpecsTwo": [
+            "Pre-Milling End Trimming",
+            "Top & Bottom Trimming",
+            "Corner Rounding",
+            "Profile scrapping",
+            "Buffing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/inclinia.png",
+      "heading": "AUTOMATIC BEVEL EDGE BANDER (INCLINIA)",
+      "name01": "Holzmac",
+      "name02": "Inclinia",
+      "slug": "edge-bander-inclinia",
+      "content": [],
+      "model_one": "INCLINIA",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working piece length",
+          "specs": [
+            "Min.150mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working piece width",
+          "specs": [
+            "Min.60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Panel thickness",
+          "specs": [
+            "10~60mm—straight",
+            "18~25mm—slanted"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edge width",
+          "specs": [
+            "0.4~3mm—straight",
+            "1~2mm—slanted"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feed speed",
+          "specs": [
+            "16-23m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power",
+          "specs": [
+            "37KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air compressure",
+          "specs": [
+            "6-8 Kg/cm"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "classnames": "project-item green villa",
+      "srcimg": "/assets/img/project/duplex.png",
+      "heading": "MULTI BORER (DUPLEX)",
+      "name01": "Holzmac",
+      "name02": "Duplex",
+      "slug": "multi-borer-duplex",
+      "content": [
+        {
+          "description": "Quick change adaptors are provided on the drilling spindles."
+        },
+        {
+          "description": "Adequate and effective Pneumatic clamps are provided."
+        },
+        {
+          "description": "Pneumatic lock is provided for vertical head."
+        },
+        {
+          "description": "The aluminum fence has 4 reference steps for positing to do drilling on long work pieces."
+        },
+        {
+          "description": "Vertical head can be swiveled 90°."
+        },
+        {
+          "description": "Electric digital counter for adjusting Length."
+        },
+        {
+          "description": "Digital counter for adjusting boring depth."
+        },
+        {
+          "description": "Boring depth adjustment can be done quickly & calibrating."
+        },
+        {
+          "description": "Vertical Head can slide away on precision LM guide."
+        }
+      ],
+      "model_one": "DUPLEX",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max. Drilling Dia For Single Drill",
+          "specs": [
+            "35mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Drilling Dia For Multi Drills",
+          "specs": [
+            "13mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Drilling depth",
+          "specs": [
+            "50mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Distance between spindles",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Number of spindles per head",
+          "specs": [
+            "21nos"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motors power",
+          "specs": [
+            "2x1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of spindles",
+          "specs": [
+            "2840rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pressure of compressed air",
+          "specs": [
+            "6kg/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight (Approx)",
+          "specs": [
+            "800kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/triplex.png",
+      "heading": "THREE HEADS DRILLING MACHINE (TRIPLEX)",
+      "name01": "Holzmac",
+      "name02": "Triplex",
+      "slug": "three-heads-drilling-machine-triplex",
+      "content": [],
+      "model_one": "TRIPLEX",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "No. of Horizontal heads ",
+          "specs": [
+            "1"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of Vertical Heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Number of spindle per head",
+          "specs": [
+            "21"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total no. of spindles",
+          "specs": [
+            "63"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel thickness",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel width ",
+          "specs": [
+            "1750mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel Length",
+          "specs": [
+            "2800mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine Size (Approx)",
+          "specs": [
+            "2850x2800x1600 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power required ",
+          "specs": [
+            "3 x 1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic pressure",
+          "specs": [
+            "6-8kg/cm2"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/n-e4.png",
+      "heading": "FOUR HEADS MULTI SPINDLES BORING MACHINE (N-4E)",
+      "name01": "Holzmac",
+      "name02": "N-4E",
+      "slug": "four-heads-multi-spindles-machine-4e",
+      "content": [],
+      "model_one": "N-4E",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Distance between spindles",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of horizontal heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of Vertical Heads (Single Motor)",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Number of spindles",
+          "specs": [
+            "84"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel thickness",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. Panel width ",
+          "specs": [
+            "170mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel width",
+          "specs": [
+            "2450mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. vertical boring distance",
+          "specs": [
+            "2550mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. vertical boring distance",
+          "specs": [
+            "200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption for single cycle ",
+          "specs": [
+            "9L"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption for single cycle ",
+          "specs": [
+            "65L"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power required",
+          "specs": [
+            "6KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic pressure",
+          "specs": [
+            "6-8kg/cm2"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/n-4.png",
+      "heading": "FOUR HEADS MULTI SPINDLES BORING MACHINE (N-4)",
+      "name01": "Holzmac",
+      "name02": "N-4",
+      "slug": "four-heads-multi-spindles-machine-4",
+      "content": [],
+      "model_one": "N-4E",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Distance between spindles",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of horizontal heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of Vertical Heads (Single Motor)",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Number of spindles",
+          "specs": [
+            "84"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel thickness",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. Panel width ",
+          "specs": [
+            "200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Panel width",
+          "specs": [
+            "2450mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. vertical boring distance",
+          "specs": [
+            "2550mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. vertical boring distance",
+          "specs": [
+            "200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feeding Speed",
+          "specs": [
+            "60M/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feeding Power",
+          "specs": [
+            "0.5HP"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption for single cycle ",
+          "specs": [
+            "9L"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption for single cycle ",
+          "specs": [
+            "65L"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power required",
+          "specs": [
+            "6KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic pressure",
+          "specs": [
+            "6-8kg/cm2"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/n_7-6.png",
+      "heading": "SEVEN/SIX HEADS MULTI SPINDLES BORING MACHINE",
+      "name01": "Holzmac",
+      "name02": "N-7/N-6",
+      "slug": "seven-six-heads-multi-spindles-machine",
+      "content": [
+        {
+          "description": " Model N6 is with Double Motors for Vertical head"
+        },
+        {
+          "description": " Model N-6E is with Single Motor for Vertical head"
+        }
+      ],
+      "model_one": "N-7/N-7E",
+      "model_two": "N-6/N-6E",
+      "specifications": [
+        {
+          "heading": "Max. Panel width",
+          "specs": [
+            "2550mm"
+          ],
+          "anotherSpecs": [
+            "2550mm"
+          ]
+        },
+        {
+          "heading": "Min. panel width",
+          "specs": [
+            "240mm"
+          ],
+          "anotherSpecs": [
+            "240mm"
+          ]
+        },
+        {
+          "heading": "No. of l Horizontal Heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": [
+            "2"
+          ]
+        },
+        {
+          "heading": "No. of Vertical Heads",
+          "specs": [
+            "4"
+          ],
+          "anotherSpecs": [
+            "4"
+          ]
+        },
+        {
+          "heading": "Distance between the spindles",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": [
+            "32mm"
+          ]
+        },
+        {
+          "heading": "Max. panel thickness",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": [
+            "80mm"
+          ]
+        },
+        {
+          "heading": "Max. vertical boring distance",
+          "specs": [
+            "2450mm"
+          ],
+          "anotherSpecs": [
+            "2450mm"
+          ]
+        },
+        {
+          "heading": "Min. vertical boring distance",
+          "specs": [
+            "170mm"
+          ],
+          "anotherSpecs": [
+            "170mm"
+          ]
+        },
+        {
+          "heading": "Motor power of Horizontal heads",
+          "specs": [
+            "2 X 1.5 KW"
+          ],
+          "anotherSpecs": [
+            "2 X 1.5 KW"
+          ]
+        },
+        {
+          "heading": "Motor power of vertical heads",
+          "specs": [
+            "5 X 1.5 KW"
+          ],
+          "anotherSpecs": [
+            "4 X 1.5 KW"
+          ]
+        },
+        {
+          "heading": "Feeding Speed",
+          "specs": [
+            "60m/min"
+          ],
+          "anotherSpecs": [
+            "60m/min"
+          ]
+        },
+        {
+          "heading": "Feeding power",
+          "specs": [
+            "0.5HP"
+          ],
+          "anotherSpecs": [
+            "0.5HP"
+          ]
+        },
+        {
+          "heading": "Air consumption for single cycle ",
+          "specs": [
+            "11L"
+          ],
+          "anotherSpecs": [
+            "11L"
+          ]
+        },
+        {
+          "heading": "Air consumption for total cycle",
+          "specs": [
+            "75L"
+          ],
+          "anotherSpecs": [
+            "75L"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/ddm-4.png",
+      "heading": "DRAWER DRILLING MACHINE (DDM-4)",
+      "name01": "Holzmac",
+      "name02": "DDM-4",
+      "slug": "drawer-drilling-machine-ddm-4",
+      "content": [],
+      "model_one": "DDM-4",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Bits",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Horizontal Spindles",
+          "specs": [
+            "15 x 2"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Vertical Spindles",
+          "specs": [
+            "15 x 2"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Feed Motor Power",
+          "specs": [
+            "1HP"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Feeding Frequency",
+          "specs": [
+            "10-20 Pices per minute"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Horizontal Drill",
+          "specs": [
+            "1.5KW x 2Pcs"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Vertical Drilling Power",
+          "specs": [
+            "1.5KW x 2Pcs"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Motor Speed",
+          "specs": [
+            "2800rpm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Vertical Drilling Depth",
+          "specs": [
+            "40mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Horizontal Drilling Depth",
+          "specs": [
+            "40mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Minimum Width of the workpiece (X axis)",
+          "specs": [
+            "235mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Width of workpiece (X axis)",
+          "specs": [
+            "1400mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Thickness ( Z axis)",
+          "specs": [
+            "40mm (adjustable)"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Dimension of the machine",
+          "specs": [
+            "2850 x 2250 x 1450mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/hbm-1.png",
+      "heading": "SINGLE HEAD HINGE DRILLING MACHINE",
+      "name01": "Holzmac",
+      "name02": "HBM-1",
+      "slug": "single-hinge-drilling-machine-hbm-1",
+      "content": [],
+      "model_one": "HBM-1",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Maximum Drilling Dia",
+          "specs": [
+            "50mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Drilling Length",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "No. of Drilling Heads",
+          "specs": [
+            "1"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "2840mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Working Table Size ",
+          "specs": [
+            "1200x500mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/hbm-2.png",
+      "heading": "DOUBLE HEAD HINGE DRILLING MACHINE",
+      "name01": "Holzmac",
+      "name02": "HBM-2",
+      "slug": "single-hinge-drilling-machine-hbm-2",
+      "content": [],
+      "model_one": "HBM-2",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Maximum Drilling Dia",
+          "specs": [
+            "50mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Drilling Length",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "No. of Drilling Heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "3KW"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "2840mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Table Size ",
+          "specs": [
+            "1200x500mm"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/hbm-4.png",
+      "heading": "HINGE HOLES DRILLING MACHINE",
+      "name01": "Holzmac",
+      "name02": "HBM-4",
+      "slug": "hinge-holes-drilling-machine",
+      "content": [],
+      "model_one": "HBM-4",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Maximum Drilling Dia",
+          "specs": [
+            "50mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Maximum Drilling Length",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "No. of Drilling Heads",
+          "specs": [
+            "4"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "6KW"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "2840mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Working Table Size ",
+          "specs": [
+            "2500*500mm"
+          ],
+          "anotherSpecs": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cp-50.png",
+      "heading": "COLD PRESS (CP-50)",
+      "name01": "Holzmac",
+      "name02": "CP-50",
+      "slug": "cold-press-cp-50",
+      "content": [
+        {
+          "description": "Heavy duty hydraulic cylinders are provided."
+        },
+        {
+          "description": "Parallel and smooth operations of platens with emergency stop controls."
+        },
+        {
+          "description": "Top & bottom platens duly ground have perfectly flat surfaces to avoid bubbles during process."
+        },
+        {
+          "description": "Machine suitable for pressing laminate/veneer on wood/ply/MDF etc."
+        }
+      ],
+      "model_one": "CP-50",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1250 x 2500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Pressure of Worktable",
+          "specs": [
+            "50T"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pressure of Hydraulic system",
+          "specs": [
+            "210 kg/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Platen Opening",
+          "specs": [
+            "800/1000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Oil Cylinder Dia",
+          "specs": [
+            "85mm x 2pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic Pump Power",
+          "specs": [
+            "4 KW"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cp-60.png",
+      "heading": "COLD PRESS (CP-60/80)",
+      "name01": "Holzmac",
+      "name02": "CP-60/80",
+      "slug": "cold-press-cp-60-80",
+      "content": [],
+      "model_one": "CP-60",
+      "model_two": "CP-80",
+      "specifications": [
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1250 x 2500mm"
+          ],
+          "anotherSpecs": [
+            "1250 x 3000mm"
+          ]
+        },
+        {
+          "heading": "Max. Pressure of Worktable",
+          "specs": [
+            "60T"
+          ],
+          "anotherSpecs": [
+            "80T"
+          ]
+        },
+        {
+          "heading": "Max. Platen Opening",
+          "specs": [
+            "1000mm"
+          ],
+          "anotherSpecs": [
+            "1000mm"
+          ]
+        },
+        {
+          "heading": "Oil Cylinder Dia",
+          "specs": [
+            "85mm x 3pcs"
+          ],
+          "anotherSpecs": [
+            "85mm x 3pcs"
+          ]
+        },
+        {
+          "heading": "Hydraulic Pump Power",
+          "specs": [
+            "4 KW"
+          ],
+          "anotherSpecs": [
+            "5.5 KW"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cp-100.png",
+      "heading": "COLD PRESS (CP-100)",
+      "name01": "Holzmac",
+      "name02": "CP-100",
+      "slug": "cold-press-cp-100",
+      "content": [],
+      "model_one": "CP-100",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1250 x 2500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Pressure of Worktable",
+          "specs": [
+            "100T"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Platen Opening",
+          "specs": [
+            "1000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Oil Cylinder Dia",
+          "specs": [
+            "90mm x 4pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic Pump Power",
+          "specs": [
+            "5.5 KW"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/hp-100.png",
+      "heading": "HOT PRESS (HP-100)",
+      "name01": "Holzmac",
+      "name02": "HP-100",
+      "slug": "hot-press-hp-100",
+      "content": [
+        {
+          "description": "The Platens of The Press are of Solid Steel Plate duty Machined & Ground."
+        },
+        {
+          "description": "The heating medium is thermic fluid oil ensuring even and stable heating of the platen throughout to take care of thermal distortion."
+        },
+        {
+          "description": "Rigid construction to take care of thermal distortion."
+        },
+        {
+          "description": "Suitable for Pressing & Laminating. Lamination sheets on MDF/HPF Plywood etc"
+        }
+      ],
+      "model_one": "HP-100",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working Table Size",
+          "specs": [
+            "1300 x 2500 x 42mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Pressure",
+          "specs": [
+            "100T"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Platen Opening",
+          "specs": [
+            "300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Oil Cylinder Dia",
+          "specs": [
+            "85mm x 6 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic pump motor power",
+          "specs": [
+            "2.2 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Heating platen power",
+          "specs": [
+            "1 x 18kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Approx. Weight",
+          "specs": [
+            "5800 kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/pointek.png",
+      "heading": "OVERHEAD ROUTER (POINTEK)",
+      "name01": "Holzmac",
+      "name02": "Pointek/Routek",
+      "slug": "overhead-router",
+      "content": [],
+      "model_one": "Pointek",
+      "model_two": "Routek",
+      "specifications": [
+        {
+          "heading": "Throat Depth",
+          "specs": [
+            "900mm"
+          ],
+          "anotherSpecs": [
+            "650mm"
+          ]
+        },
+        {
+          "heading": "Worktable Size",
+          "specs": [
+            "900 x 800mm"
+          ],
+          "anotherSpecs": [
+            "750 x 550mm"
+          ]
+        },
+        {
+          "heading": "Table Vertical Travel",
+          "specs": [
+            "130mm"
+          ],
+          "anotherSpecs": [
+            "100mm"
+          ]
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "8000/16000rpm"
+          ],
+          "anotherSpecs": [
+            "8000/16000rpm"
+          ]
+        },
+        {
+          "heading": "Guide Pin Diameter",
+          "specs": [
+            "6-12mm"
+          ],
+          "anotherSpecs": [
+            "6-12mm"
+          ]
+        },
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "4 KW"
+          ],
+          "anotherSpecs": [
+            "3 KW"
+          ]
+        },
+        {
+          "heading": "Pneumatic Pressure",
+          "specs": [
+            "6-8 KG/cm²"
+          ],
+          "anotherSpecs": [
+            "6-8 KG/cm²"
+          ]
+        },
+        {
+          "heading": "Max. Shank Dia",
+          "specs": [
+            "12mm"
+          ],
+          "anotherSpecs": [
+            "12mm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/spindle-moulder.png",
+      "heading": "SPINDLE MOULDER (SM-120)",
+      "name01": "Holzmac",
+      "name02": "SM-120",
+      "slug": "spindle-moulder",
+      "content": [],
+      "model_one": "SM-120",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working Table Size",
+          "specs": [
+            "1000x800mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Cutting Height",
+          "specs": [
+            "100mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Dia",
+          "specs": [
+            "30mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "3000-8000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power",
+          "specs": [
+            "3HP"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/post-forming.png",
+      "heading": "POST FORMING MACHINE (PF-2600)",
+      "name01": "Holzmac",
+      "name02": "PF-2600",
+      "slug": "post-farming-machine",
+      "content": [
+        {
+          "description": "Can be provided with PLC control for automatic post forming cycle with variable heating time, stop and start time and holding time & It can be adjusted according to profiles."
+        },
+        {
+          "description": "8 pneumatic cylinders with heating bar is provided to apply uniform pressure on work piece."
+        },
+        {
+          "description": "Three top pneumatic cylinders provided for better holding of work pieces."
+        },
+        {
+          "description": "Ground and hard chrome platted heater bar for smooth operations and long life."
+        },
+        {
+          "description": "Drive motor is provided with brake to avoid Slippage of heating bar"
+        }
+      ],
+      "model_one": "PF-2600",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Panel length (Min. –Max.)",
+          "specs": [
+            "600-2600mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Panel Thickness",
+          "specs": [
+            "10-100mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min. working Width",
+          "specs": [
+            "200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Installed Power",
+          "specs": [
+            "6 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic Power",
+          "specs": [
+            "6-8 KG/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Temperature",
+          "specs": [
+            "200°C"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight (Approx)",
+          "specs": [
+            "1200kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/vaccum-membrane-forma.png",
+      "heading": "VACCUM MEMBRANE PRESS (FORMA)",
+      "name01": "Holzmac",
+      "name02": "FORMA",
+      "slug": "vaccum-membrane-press-forma",
+      "content": [
+        {
+          "description": "Automatic opening of top hood."
+        },
+        {
+          "description": "Stable & heavy duty is built up frame body."
+        },
+        {
+          "description": "Heating system ensures even and stable heating of the work pieces."
+        },
+        {
+          "description": "Easy to operate."
+        },
+        {
+          "description": "Tray Minimizer is provided with the machine for optional usage of foil."
+        }
+      ],
+      "model_one": "FORMA",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working table size",
+          "specs": [
+            "2500 x 1250"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Start up power",
+          "specs": [
+            "15 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working height",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working power",
+          "specs": [
+            "6 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum",
+          "specs": [
+            "0.1 Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight of the machine (Approx.)",
+          "specs": [
+            "1400 Kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/vmp-3.png",
+      "heading": "VACCUM MEMBRANE PRESS",
+      "name01": "Holzmac",
+      "name02": "VMP-3SUPER/VMP-3ECO",
+      "slug": "vaccum-membrane-press-vmp-3",
+      "content": [
+        {
+          "description": "Forward & Bacward Movement Of Workingtables Is Motorized."
+        },
+        {
+          "description": "Stable & heavy duty is built up frame body."
+        },
+        {
+          "description": "Heating system ensures even and stable heating of the work pieces."
+        },
+        {
+          "description": "Easy to operate."
+        },
+        {
+          "description": "Tray Minimizer is provided with the machine for optimal usage of foil."
+        }
+      ],
+      "model_one": "VMP-3 SUPER",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working table size",
+          "specs": [
+            "2700 x 1400"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Start up power",
+          "specs": [
+            "15 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working height",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working power",
+          "specs": [
+            "6 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum",
+          "specs": [
+            "0.1 Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight of the machine (Approx.)",
+          "specs": [
+            "1800 Kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/NC-1200.png",
+      "heading": "CNC ROUTER (NC-1200)",
+      "name01": "Holzmac",
+      "name02": "NC-1200/NC-2000",
+      "slug": "cnc-router-nc-1200",
+      "content": [
+        {
+          "description": "The CNC Router Is Used For Routing Jobs, Carving Mainly In Furniture Industries, Doors,Cabinets, Office Furniture And Other Furniture. "
+        },
+        {
+          "description": "Heavy Duty Air Cooled Spindle Are provided. Air cooled vacuum pump is provided."
+        }
+      ],
+      "model_one": "NC-1200",
+      "model_two": "NC-2000",
+      "specifications": [
+        {
+          "heading": "X,Y,Z Working Area",
+          "specs": [
+            "1220 x 2440 x 200mm"
+          ],
+          "anotherSpecs": [
+            "2000 x 3000 x 200mm"
+          ]
+        },
+        {
+          "heading": "Table Surface",
+          "specs": [
+            "Bakelite Vacuum table"
+          ],
+          "anotherSpecs": [
+            "Bakelite Vacuum table"
+          ]
+        },
+        {
+          "heading": "X,Y, Structure",
+          "specs": [
+            "Rack & Pinion Drive, Rail Linear Bearings"
+          ],
+          "anotherSpecs": [
+            "Rack & Pinion Drive, Rail Linear Bearings"
+          ]
+        },
+        {
+          "heading": "Z Structure",
+          "specs": [
+            "Ball Screw, Rail Linear Bearings"
+          ],
+          "anotherSpecs": [
+            "Ball Screw, Rail Linear Bearings"
+          ]
+        },
+        {
+          "heading": "Max. Working Speed",
+          "specs": [
+            "20 mtrs/min"
+          ],
+          "anotherSpecs": [
+            "20 mtrs/min"
+          ]
+        },
+        {
+          "heading": "Spindle Type",
+          "specs": [
+            "6.0 KW AIR COOLED SPINDLE"
+          ],
+          "anotherSpecs": [
+            "6.0 KW AIR COOLED SPINDLE"
+          ]
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "0-18000 RPM"
+          ],
+          "anotherSpecs": [
+            "0-18000 RPM"
+          ]
+        },
+        {
+          "heading": "Drive System",
+          "specs": [
+            "Hybrid Servo Motor & Drive System"
+          ],
+          "anotherSpecs": [
+            "Hybrid Servo Motor & Drive System"
+          ]
+        },
+        {
+          "heading": "Working Voltage",
+          "specs": [
+            "AC4 15V/50, 3PH"
+          ],
+          "anotherSpecs": [
+            "AC4 15V/50, 3PH"
+          ]
+        },
+        {
+          "heading": "Command Language",
+          "specs": [
+            "G- Code"
+          ],
+          "anotherSpecs": [
+            "G- Code"
+          ]
+        },
+        {
+          "heading": "Operating System",
+          "specs": [
+            "DSP System Interface USB"
+          ],
+          "anotherSpecs": [
+            "DSP System Interface USB"
+          ]
+        },
+        {
+          "heading": "Vacuum Pump (Air Cooled)",
+          "specs": [
+            "5.5 KW "
+          ],
+          "anotherSpecs": [
+            "5.5KW X 2"
+          ]
+        },
+        {
+          "heading": "Software Compatibility",
+          "specs": [
+            ""
+          ],
+          "anotherSpecs": [
+            "(Type 3 Software, Option: Art cam Pro)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "classnames": "project-item villa architecture building construction",
+      "srcimg": "/assets/img/project/nc-1300.png",
+      "heading": "CNC ROUTER (NC-1300ATC)",
+      "name01": "Holzmac",
+      "name02": "NC-1300-ATC",
+      "slug": "cnc-router-nc-1300",
+      "content": [ ],
+      "model_one": "NC-1300ATC",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Traveling Size",
+          "specs": [
+            "1260x2500x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Size",
+          "specs": [
+            "1240x2480x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1330x2500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Transmission",
+          "specs": [
+            "X/Y rack & pinion drive, z ball screw drive"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Structure",
+          "specs": [
+            "Vaccum Table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Power",
+          "specs": [
+            "9.0kw (HSD)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "24000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Travelling Speed",
+          "specs": [
+            "60m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Speed",
+          "specs": [
+            "30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool Magazine",
+          "specs": [
+            "Linear"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of Tool Slots",
+          "specs": [
+            "8"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Voltage",
+          "specs": [
+            "AC415V/3PH/50HZ"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/holzmac7.png",
+      "heading": "CNC ROUTER (NC-1330+)",
+      "name01": "Holzmac",
+      "name02": "NC-1330+",
+      "slug": "cnc-router-1330",
+      "content": [],
+      "model_one": "NC-1330+",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1300 x 3000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "X,Y,Z Working Area",
+          "specs": [
+            "1220 x 2440 x 200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Surface",
+          "specs": [
+            "Vaccum Table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "X,Y, Structure",
+          "specs": [
+            "Rack & Pinion , Rail Linear Bearings"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Z Structure ",
+          "specs": [
+            "Ball Screw, Rail Linear Bearings"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Linear Motion Guide Size",
+          "specs": [
+            "25mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Type",
+          "specs": [
+            "‘HSD’ 6 KW Air Cooled Spindle"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "0-24000 RPM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drive System (With Gear Speed Reduser)",
+          "specs": [
+            "Delta Brand Servo Notor & Drive System"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Command Language",
+          "specs": [
+            "G- Code"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Operating System (Controller)",
+          "specs": [
+            "Weihong NC-60A"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Software Compatibility",
+          "specs": [
+            "(Type 3 Software, Option: Art cam Pro)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Voltage",
+          "specs": [
+            "AC 415V/50HZ, 3PH"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/rp-630.png",
+      "heading": "WIDE BELT SANDER (RP-630)",
+      "name01": "Holzmac",
+      "name02": "RP-630",
+      "slug": "wild-belt-sander-rp-630",
+      "content": [],
+      "model_one": "RP-630",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Sanding width",
+          "specs": [
+            "50-630mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Sanding thickness",
+          "specs": [
+            "3-120mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (fixed thickness)",
+          "specs": [
+            "300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (polished)",
+          "specs": [
+            "500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Coarse (front) roller speed",
+          "specs": [
+            "19m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Fine (rear) sand roll speed",
+          "specs": [
+            "18m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Conveyor speed",
+          "specs": [
+            "3-30m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total machine power",
+          "specs": [
+            "21KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction port diameter",
+          "specs": [
+            "150X5mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "working pressure",
+          "specs": [
+            "0.55Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust extraction air volume",
+          "specs": [
+            "9500M3/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum speed",
+          "specs": [
+            "25-30m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine dimensions",
+          "specs": [
+            "1110*1650*1990mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine weight",
+          "specs": [
+            "1550 Kg."
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/rp-1000.png",
+      "heading": "WIDE BELT SANDER (P-1000/RP-1000)",
+      "name01": "Holzmac",
+      "name02": "P-1000/RP-1000",
+      "slug": "wild-belt-sander-rp-1000",
+      "content": [],
+      "model_one": "RP-1000/RP-1000",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Sanding width",
+          "specs": [
+            "50-1000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Sanding thickness",
+          "specs": [
+            "3-120mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (fixed thickness)",
+          "specs": [
+            "300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (polished)",
+          "specs": [
+            "500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Coarse (front) roller speed",
+          "specs": [
+            "19m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Fine (rear) sand roll speed",
+          "specs": [
+            "18m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Conveyor speed",
+          "specs": [
+            "6-30m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total machine power",
+          "specs": [
+            "36.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction port diameter",
+          "specs": [
+            "150X5mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "working pressure",
+          "specs": [
+            "0.55Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust extraction air volume",
+          "specs": [
+            "9500M3/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum speed",
+          "specs": [
+            "25-30m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine dimensions",
+          "specs": [
+            "2250*2080*2000mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine weight",
+          "specs": [
+            "2800 Kg."
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/rp-1300.png",
+      "heading": "WIDE BELT SANDER (P-1300/RP-1300)",
+      "name01": "Holzmac",
+      "name02": "P-1300/RP-1300",
+      "slug": "wild-belt-sander-rp-1300",
+      "content": [],
+      "model_one": "P-1300/RP-1300",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Sanding width",
+          "specs": [
+            "50-1300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Sanding thickness",
+          "specs": [
+            "3-120mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (fixed thickness)",
+          "specs": [
+            "300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shortest sanding length (polished)",
+          "specs": [
+            "500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Coarse (front) roller speed",
+          "specs": [
+            "19m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Fine (rear) sand roll speed",
+          "specs": [
+            "18m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Conveyor speed",
+          "specs": [
+            "6-30m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total machine power",
+          "specs": [
+            "57KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction port diameter",
+          "specs": [
+            "150X5mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "working pressure",
+          "specs": [
+            "0.55Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust extraction air volume",
+          "specs": [
+            "9500M3/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum speed",
+          "specs": [
+            "25-30m/s"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine dimensions",
+          "specs": [
+            "2650*2080*2020mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine weight",
+          "specs": [
+            "3500 Kg."
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/carcase-assembler.png",
+      "heading": "CARCASE ASSEMBLER",
+      "name01": "Holzmac",
+      "name02": "----",
+      "slug": "carcase-assembler",
+      "content": [],
+      "model_one": " ",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max Pressure Size",
+          "specs": [
+            "2650X600X1400mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min Assemble Size",
+          "specs": [
+            "350X230mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feeding Motor Power",
+          "specs": [
+            "0.4kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Conveyor Belt feeding Speed",
+          "specs": [
+            "9m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Walking Beam Moving Motor Power",
+          "specs": [
+            "0.37kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Walking Beam Speed",
+          "specs": [
+            "6.8m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Up Pressure Cylinder",
+          "specs": [
+            "125mmX1200X2 pcs",
+            "100mmX1200X1 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Platen Action Cylinder",
+          "specs": [
+            "50mmX1320X2 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Side Pressure Cylinder",
+          "specs": [
+            "60mmX125X8 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Walking Beam Enclasp Cylinder",
+          "specs": [
+            "125mmX50X1 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "System Air Pressure",
+          "specs": [
+            "0.6-0.8Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feeding rack Working Table Size",
+          "specs": [
+            "2000X600mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Turning Material Board Size",
+          "specs": [
+            "2000X1170mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic Motor Power",
+          "specs": [
+            "1.5kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic System Pressure",
+          "specs": [
+            "14Mpa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Turning Rack Cylinder",
+          "specs": [
+            "63mmX250X1 Pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Turning Board Cylinder",
+          "specs": [
+            "50mmX200X2 Pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dimensions(LXWXH)",
+          "specs": [
+            "560 X 130 X 360 cm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight",
+          "specs": [
+            "2890kg"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/buffing-machine.png",
+      "heading": "BUFFING MACHINE (BF-001)",
+      "name01": "Holzmac",
+      "name02": "BF-001",
+      "slug": "buffing-machine",
+      "content": [
+        {
+          "description": "Suitable for woodworking products finishing, polishing, and waxing."
+        },
+        {
+          "description": "Inverter control stepless revert working table, suitable for different finishing board polishing and waxing."
+        },
+        {
+          "description": "Inductive switch controlled revert length for more efficiency."
+        },
+        {
+          "description": "Movable clamping, easy to fasten workpiece."
+        },
+        {
+          "description": "Vacuum Table ensures effective polishing of small boards."
+        }
+      ],
+      "model_one": "BF-001",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working table size",
+          "specs": [
+            "2500 x 1250"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Start up power",
+          "specs": [
+            "15 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working height",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. working length",
+          "specs": [
+            "2400mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. working width",
+          "specs": [
+            "1300mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Thickness",
+          "specs": [
+            "10-200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Polishing Motor",
+          "specs": [
+            "15kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Lifting Motor",
+          "specs": [
+            "0.75kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Rebert Motor",
+          "specs": [
+            "0.37kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Polishing Speed",
+          "specs": [
+            "1460rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Wheel Size",
+          "specs": [
+            "330x86x18mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Revert Speed",
+          "specs": [
+            "8.6~14m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Lift Speed",
+          "specs": [
+            "76mm/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum Pump",
+          "specs": [
+            "2.2kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total Motor",
+          "specs": [
+            "18.32kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dimension",
+          "specs": [
+            "3200x1820x1530mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight",
+          "specs": [
+            "2000kg"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/paper-sticking-machine.png",
+      "heading": "PAPER STICKING MACHINE (PSM-001)",
+      "name01": "Holzmac",
+      "name02": "PSM-001",
+      "slug": "paper-sticking-psm-001",
+      "content": [
+        {
+          "description": "It has pneumatic shaft to fix film roll which is quick and solid. The electromagnetic tension system can control the tension quickly and conveniently. It is equipped with film roll moving system which can move the film roll in place and avoid film wrinkling without stopping the machine, so it can improve the working efficiency and quality of products."
+        },
+        {
+          "description": "It is convenient, quick, economic and labor-saving to use the electric hoist to lift the film roll group."
+        },
+        {
+          "description": "It covers the functions of feeding, dust cleaning, glue spreading, paper sticking, paper cutting, cold press and hot press. The product is finished for once."
+        },
+        {
+          "description": "The upper press rollers rise pneumatically and it is suitable for sticking material such as PVC and decorative paper with different thickness on the surface of basic material with different thickness."
+        },
+        {
+          "description": "Advanced digital full-automaic technology and easy to operate."
+        },
+        {
+          "description": "Variable feed steeples speed, efficiency is much higher than the similar products."
+        }
+      ],
+      "model_one": "PSM-001",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max. feeding speed",
+          "specs": [
+            "15m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total Power",
+          "specs": [
+            "B8 Kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. panel width",
+          "specs": [
+            "1220mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Overall dimensions",
+          "specs": [
+            "6300×2100×2550mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight",
+          "specs": [
+            "2250kg"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },    
+    {
+      "id": 38,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/crm.png",
+      "heading": "CORNER ROUNDING MACHINE (CRM)",
+      "name01": "Holzmac",
+      "name02": "CRM",
+      "slug": "corner-rounding-crm",
+      "content": [],
+      "model_one": "CRM",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max. thickness of work piece",
+          "specs": [
+            "12-60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. edge thickness",
+          "specs": [
+            "5mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Work piece min. width",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Work piece min. length",
+          "specs": [
+            "150mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. rounding depth",
+          "specs": [
+            "20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Rotation of spindle",
+          "specs": [
+            "12000rpm"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/auto-feeder.png",
+      "heading": "AUTO FEEDER",
+      "name01": "Holzmac",
+      "name02": "---",
+      "slug": "auto-feeder",
+      "content": [],
+      "model_one": " ",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Power",
+          "specs": [
+            "1 HP"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Rollers",
+          "specs": [
+            "4/3 Rollers"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed",
+          "specs": [
+            "8 Speed"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/dust-collecter-dc-3.png",
+      "heading": "DUST COLLECTOR (DC-3/DC-5)",
+      "name01": "Holzmac",
+      "name02": "DC-3/DC-5",
+      "slug": "dust-collector",
+      "content": [],
+      "model_one": "DC-3",
+      "model_two": "DC-5",
+      "specifications": [
+        {
+          "heading": "Electric Motor Power",
+          "specs": [
+            "3 KW"
+          ],
+          "anotherSpecs": [
+            "5hp"
+          ]
+        },
+        {
+          "heading": "Inlet Hood dia",
+          "specs": [
+            "125mm"
+          ],
+          "anotherSpecs": [
+            "175mm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/dust-collecter-dc-7.png",
+      "heading": "DUST COLLECTOR (DC-7)",
+      "name01": "Holzmac",
+      "name02": "DC-7",
+      "slug": "dust-collector-dc-7",
+      "content": [],
+      "model_one": "DC-7",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Electric Motor Power",
+          "specs": [
+            "7.5hp"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Inlet Hood dia",
+          "specs": [
+            "220mm"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/QUADRO-promac.png",
+      "heading": "PANEL SAW (QUADRO)",
+      "name01": "Promac",
+      "name02": "Quadro",
+      "slug": "quadro",
+      "content": [
+        {
+          "description": "Sturdily built heavy duty machine made from thick steel frame"
+        },
+        {
+          "description": "Sliding Table mechanism provided with hard Chromed round Steel rods, ensuring smooth travel and cutting accuracy."
+        },
+        {
+          "description": "Extended supports for large panels are provided"
+        }
+      ],
+      "model_one": "QUADRO",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Ripping Capacity",
+          "specs": [
+            "1250mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Height of cut",
+          "specs": [
+            "100mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Angle of Blade Tilting",
+          "specs": [
+            "45 degree"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main Saw Blade Size",
+          "specs": [
+            "350x 30mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of Main Saw Blade ",
+          "specs": [
+            "4500/6000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for Main Saw",
+          "specs": [
+            "5.5KW(7.5HP)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Scoring Saw Size ",
+          "specs": [
+            "120x20mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed of Scoring Saw",
+          "specs": [
+            "8000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Motor Power for Scoring Saw",
+          "specs": [
+            "1.1KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dust Chute Diameter ",
+          "specs": [
+            "100MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight Approx.",
+          "specs": [
+            "980kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/platinum.png",
+      "heading": "AUTOMATIC THROUGH FEED EDGE BANDER (PLATINUM)",
+      "name01": "Promac",
+      "name02": "Platinum",
+      "slug": "platinum",
+      "content": [],
+      "model_one": "PLATINUM",
+      "model_two": "SMARTMAC +",
+      "model_three": "SMARTMAC",
+      "specifications": [
+        {
+          "heading": "Trimming Working Height",
+          "specs": [
+            "10-60mm"
+          ],
+          "anotherSpecs": [
+            "10-60mm"
+          ],
+          "anotherSpecsTwo": [
+            "10-60mm"
+          ]
+        },
+        {
+          "heading": "Thickness of edges in rolls",
+          "specs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecsTwo": [
+            "0.4-3mm"
+          ]
+        },
+        {
+          "heading": "Max edge panel thickness",
+          "specs": [
+            "4(2+2)mm"
+          ],
+          "anotherSpecs": [
+            "4(2+2)mm"
+          ],
+          "anotherSpecsTwo": [
+            "4(2+2)mm"
+          ]
+        },
+        {
+          "heading": "Feeding speed",
+          "specs": [
+            "13-18-25Mtrs/min"
+          ],
+          "anotherSpecs": [
+            "13-18-25Mtrs/min"
+          ],
+          "anotherSpecsTwo": [
+            "13-18-25Mtrs/min"
+          ]
+        },
+        {
+          "heading": "Feeding Motor Power",
+          "specs": [
+            "4KW"
+          ],
+          "anotherSpecs": [
+            "4KW"
+          ],
+          "anotherSpecsTwo": [
+            "4KW"
+          ]
+        },
+        {
+          "heading": "Pneumatic system pressure",
+          "specs": [
+            "6-8 Kg/cm"
+          ],
+          "anotherSpecs": [
+            "6-8 Kg/cm"
+          ],
+          "anotherSpecsTwo": [
+            "6-8 Kg/cm"
+          ]
+        },
+        {
+          "heading": "Voltage STD",
+          "specs": [
+            "415 volts"
+          ],
+          "anotherSpecs": [
+            "415 volts"
+          ],
+          "anotherSpecsTwo": [
+            "415 volts"
+          ]
+        },
+        {
+          "heading": "PRE-MILLING UNIT:-",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "4.4KW"
+          ],
+          "anotherSpecs": [
+            "----"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "Compressed air pressure",
+          "specs": [
+            "5-7 Kg/cm²"
+          ],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "GLUING UNIT:-",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed",
+          "specs": [
+            "3KW"
+          ],
+          "anotherSpecs": [
+            "3KW"
+          ],
+          "anotherSpecsTwo": [
+            "3KW"
+          ]
+        },
+        {
+          "heading": "Glue Capacity",
+          "specs": [
+            "2kg"
+          ],
+          "anotherSpecs": [
+            "2kg"
+          ],
+          "anotherSpecsTwo": [
+            "2kg"
+          ]
+        },
+        {
+          "heading": "Heating time",
+          "specs": [
+            "15min"
+          ],
+          "anotherSpecs": [
+            "15min"
+          ],
+          "anotherSpecsTwo": [
+            "15min"
+          ]
+        },
+        {
+          "heading": "END-CUTTING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "0.74KW"
+          ],
+          "anotherSpecs": [
+            "0.74KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.74KW"
+          ]
+        },
+        {
+          "heading": "Blades rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "12000RPM"
+          ],
+          "anotherSpecsTwo": [
+            "12000RPM"
+          ]
+        },
+        {
+          "heading": "TRIMMING UNIT 1:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "1.5 KW"
+          ],
+          "anotherSpecsTwo": [
+            "1.5 KW"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "12000RPM"
+          ],
+          "anotherSpecsTwo": [
+            "12000RPM"
+          ]
+        },
+        {
+          "heading": "TRIMMING UNIT 2:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "1.5 KW"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "12000RPM"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "EDGE SCRAPING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Knives radius curvature",
+          "specs": [
+            "2.00mn"
+          ],
+          "anotherSpecs": [
+            "2.00mn"
+          ],
+          "anotherSpecsTwo": [
+            "2.00mn"
+          ]
+        },
+        {
+          "heading": "BRUSHING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "0.36KW"
+          ],
+          "anotherSpecs": [
+            "0.36KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.36KW"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "1400 rpm"
+          ],
+          "anotherSpecs": [
+            "1400 rpm"
+          ],
+          "anotherSpecsTwo": [
+            "1400 rpm"
+          ]
+        },
+        {
+          "heading": "Weight of the Machine (approx.)",
+          "specs": [
+            "2250KGS"
+          ],
+          "anotherSpecs": [
+            "1950KGS"
+          ],
+          "anotherSpecsTwo": [
+            "1800KGS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/maximac.png",
+      "heading": "AUTOMATIC THROUGH FEED EDGE BANDER (MAXIMAC)",
+      "name01": "Promac",
+      "name02": "Maximac",
+      "slug": "maximac",
+      "content": [],
+      "model_one": "MAXIMAC",
+      "model_two": "HYPERMAC",
+      "model_three": "SUPERMAC",
+      "specifications": [
+        {
+          "heading": "Working Height",
+          "specs": [
+            "10-60mm"
+          ],
+          "anotherSpecs": [
+            "10-60mm"
+          ],
+          "anotherSpecsTwo": [
+            "10-60mm"
+          ]
+        },
+        {
+          "heading": "Thickness of edges in rolls",
+          "specs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecs": [
+            "0.4-3mm"
+          ],
+          "anotherSpecsTwo": [
+            "0.4-3mm"
+          ]
+        },
+        {
+          "heading": "Max edge panel thickness",
+          "specs": [
+            "4(2+2)mm"
+          ],
+          "anotherSpecs": [
+            "4(2+2)mm"
+          ],
+          "anotherSpecsTwo": [
+            "4(2+2)mm"
+          ]
+        },
+        {
+          "heading": "Feeding speed",
+          "specs": [
+            "13-18-25Mtrs/min"
+          ],
+          "anotherSpecs": [
+            "13-18-25Mtrs/min"
+          ],
+          "anotherSpecsTwo": [
+            "13-18-25Mtrs/min"
+          ]
+        },
+        {
+          "heading": "Feeding Motor Power",
+          "specs": [
+            "4KW"
+          ],
+          "anotherSpecs": [
+            "4KW"
+          ],
+          "anotherSpecsTwo": [
+            "4KW"
+          ]
+        },
+        {
+          "heading": "Pneumatic system pressure",
+          "specs": [
+            "6-8 Kg/cm"
+          ],
+          "anotherSpecs": [
+            "6-8 Kg/cm"
+          ],
+          "anotherSpecsTwo": [
+            "6-8 Kg/cm"
+          ]
+        },
+        {
+          "heading": "Voltage STD",
+          "specs": [
+            "415 volts"
+          ],
+          "anotherSpecs": [
+            "415 volts"
+          ],
+          "anotherSpecsTwo": [
+            "415 volts"
+          ]
+        },
+        {
+          "heading": "PRE-MILLING UNIT:-",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "4.4KW"
+          ],
+          "anotherSpecs": [
+            "4.4KW"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "GLUING UNIT:-",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed",
+          "specs": [
+            "3KW"
+          ],
+          "anotherSpecs": [
+            "3KW"
+          ],
+          "anotherSpecsTwo": [
+            "3KW"
+          ]
+        },
+        {
+          "heading": "Glue Capacity",
+          "specs": [
+            "2kg"
+          ],
+          "anotherSpecs": [
+            "2kg"
+          ],
+          "anotherSpecsTwo": [
+            "2kg"
+          ]
+        },
+        {
+          "heading": "Heating time",
+          "specs": [
+            "15min"
+          ],
+          "anotherSpecs": [
+            "15min"
+          ],
+          "anotherSpecsTwo": [
+            "15min"
+          ]
+        },
+        {
+          "heading": "END-CUTTING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "0.74KW"
+          ],
+          "anotherSpecs": [
+            "0.74KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.74KW"
+          ]
+        },
+        {
+          "heading": "Blades rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "12000RPM"
+          ],
+          "anotherSpecsTwo": [
+            "12000RPM"
+          ]
+        },
+        {
+          "heading": "TRIMMING UNIT 1:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "1.5 KW"
+          ],
+          "anotherSpecsTwo": [
+            "1.5 KW"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "12000RPM"
+          ],
+          "anotherSpecsTwo": [
+            "12000RPM"
+          ]
+        },
+        {
+          "heading": "TRIMMING UNIT 2:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "----"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "12000RPM"
+          ],
+          "anotherSpecs": [
+            "----"
+          ],
+          "anotherSpecsTwo": [
+            "----"
+          ]
+        },
+        {
+          "heading": "CORNER ROUNDING UNIT: ",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": [
+            "1.5 KW"
+          ],
+          "anotherSpecsTwo": [
+            "1.5 KW"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "12000 rpm"
+          ],
+          "anotherSpecs": [
+            "12000 rpm"
+          ],
+          "anotherSpecsTwo": [
+            "12000 rpm"
+          ]
+        },
+        {
+          "heading": "EDGE SCRAPING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Knives radius curvature",
+          "specs": [
+            "2.00mn"
+          ],
+          "anotherSpecs": [
+            "2.00mn"
+          ],
+          "anotherSpecsTwo": [
+            "2.00mn"
+          ]
+        },
+        {
+          "heading": "BRUSHING UNIT:",
+          "specs": [],
+          "anotherSpecs": [],
+          "anotherSpecsTwo": []
+        },
+        {
+          "heading": "Power absorbed from the 2 motors",
+          "specs": [
+            "0.36KW"
+          ],
+          "anotherSpecs": [
+            "0.36KW"
+          ],
+          "anotherSpecsTwo": [
+            "0.36KW"
+          ]
+        },
+        {
+          "heading": "Rotation speed",
+          "specs": [
+            "1400 rpm"
+          ],
+          "anotherSpecs": [
+            "1400 rpm"
+          ],
+          "anotherSpecsTwo": [
+            "1400 rpm"
+          ]
+        },
+        {
+          "heading": "Weight of the Machine (approx.)",
+          "specs": [
+            "2600KGS"
+          ],
+          "anotherSpecs": [
+            "2400KGS"
+          ],
+          "anotherSpecsTwo": [
+            "2200KGS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/dynamic.png",
+      "heading": "AUTOMATIC STRAIGHT & BEVEL EDGE BANDER",
+      "name01": "Promac",
+      "name02": "Dynamic",
+      "slug": "automatic-straight-bevel-edge-bander",
+      "content": [],
+      "model_one": "DYNAMIC",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working piece length",
+          "specs": [
+            "Min.150mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min.150mm",
+          "specs": [
+            "Min.60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Panel thickness",
+          "specs": [
+            "10~60mm—straight",
+            "18~25mm—slanted"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Edge width",
+          "specs": [
+            "0.4~3mm—straight",
+            "1~2mm—slanted"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feed speed",
+          "specs": [
+            "16-23m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Input voltage",
+          "specs": [
+            "380v"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Input frequency",
+          "specs": [
+            "50HZ"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Output frequency",
+          "specs": [
+            "200HZ"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air compressure",
+          "specs": [
+            "0.6pa"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machine dimension",
+          "specs": [
+            "9330 x 1435 x 1637mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Min panel size",
+          "specs": [
+            "150(W) x 150mm(W)"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/nmb-3.png",
+      "heading": "CNC NESTING MACHINE – NMB-3",
+      "name01": "Promac",
+      "name02": "NMB-3",
+      "slug": "automatic-cnc-nesting-machine-nmb-3",
+      "content": [
+        {
+          "description": "Model NMB-3 DT : Working Area : 1300x5500x200mm"
+        },
+        {
+          "description": "Option of Automatic Loading & Unloading is also available"
+        }
+      ],
+      "model_one": "NMB-3",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "X,Y,Z Working AreaWorking piece length",
+          "specs": [
+            "1300x2500x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Type of Table",
+          "specs": [
+            "Vacuum Table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum Pump",
+          "specs": [
+            "7.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "X, Y Structure",
+          "specs": [
+            "Helical Rack & Gear Transmission"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Z Structure",
+          "specs": [
+            "Ball Screw Transmission"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Speed",
+          "specs": [
+            "20m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Power Motor",
+          "specs": [
+            "6KW (1 Pc) +4.5KW (1 Pc)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Boring Head",
+          "specs": [
+            "1.5 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "0-20.000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Collet type",
+          "specs": [
+            "(ER32)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Voltage",
+          "specs": [
+            "415 Volt 50 Hz 3 Phase"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Brand of control system",
+          "specs": [
+            "Weihong"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic reference side stop on X, Y",
+          "specs": [
+            "Yes (2X+3Y)"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/NM-4.png",
+      "heading": "CNC NESTING MACHINE – NM-4",
+      "name01": "Promac",
+      "name02": "NM-4",
+      "slug": "automatic-cnc-nesting-machine-nm-4",
+      "content": [
+        {
+          "description": "Model NM -4 DT : Working Area : 1300x5500x200mm."
+        },
+        {
+          "description": "Option of Automatic Loading & Unloading is available."
+        }
+      ],
+      "model_one": "NM-4",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "X,Y,Z Working Area",
+          "specs": [
+            "1300x2500x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Type of Table",
+          "specs": [
+            "Vacuum Table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vacuum Pump",
+          "specs": [
+            "7.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "X, Y Structure",
+          "specs": [
+            "Helical Rack & Gear Transmission"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Z Structure",
+          "specs": [
+            "Ball Screw Transmission"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Speed",
+          "specs": [
+            "20m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Power Motor",
+          "specs": [
+            "6KW (1 Pc) +4.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "0-20.000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Collet type",
+          "specs": [
+            "(ER32)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Voltage",
+          "specs": [
+            "415 Volt 50 Hz 3 Phase"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Brand of control system",
+          "specs": [
+            "Weihong"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Pneumatic reference side stop on X, Y",
+          "specs": [
+            "Yes (2X+3Y)"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/HD-1.png",
+      "heading": "CNC HORIZONTAL DRILLING MACHINE (HD-1)",
+      "name01": "Promac",
+      "name02": "HD-1",
+      "slug": "cnc-router-atc-hd-1",
+      "content": [
+        {
+          "description": "Grooving Unit"
+        },
+        {
+          "description": "Automatic Dowel Insertion Unit"
+        }
+      ],
+      "model_one": "HD-1",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Stroke",
+          "specs": [
+            "1000 x 2500 x 60mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Power",
+          "specs": [
+            "2.2 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Y Axil Speed",
+          "specs": [
+            "12000rpm/ min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drilling Bag Qty",
+          "specs": [
+            "60m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drill Dimension",
+          "specs": [
+            "10mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Voltage",
+          "specs": [
+            "415 Volt 50Hz 3 Phase"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight",
+          "specs": [
+            "730Kg"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total Power",
+          "specs": [
+            "3.5kw"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },  
+    {
+      "id": 49,
+      "classnames": "project-item villa architecture building construction",
+      "srcimg": "/assets/img/project/1300ATC.png",
+      "heading": "CNC ROUTER - ATC (NC-1300ATC)",
+      "name01": "Promac",
+      "name02": "NC-1300ATC",
+      "slug": "cnc-router-1300atc",
+      "content": [
+        {
+          "description": "Rotary tool changeris also available."
+        },
+        {
+          "description": "Automatic loading and unloading is also available."
+        }
+      ],
+      "model_one": "NC-1300ATC",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Traveling Size",
+          "specs": [
+            "1260x2500x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Size",
+          "specs": [
+            "1240x2480x200 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Size",
+          "specs": [
+            "1300x2500mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Transmission",
+          "specs": [
+            "X/Y rack & pinion drive, z ball screw drive"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Structure",
+          "specs": [
+            "Vaccum Table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Power",
+          "specs": [
+            "9.0kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "24000rpm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Travelling Speed",
+          "specs": [
+            "60m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working Speed",
+          "specs": [
+            "30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool Magazine",
+          "specs": [
+            "Linear"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "No. of Tool Slots",
+          "specs": [
+            "8"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Voltage",
+          "specs": [
+            "AC415V/3PH/50HZ"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/evolution.png",
+      "heading": "SIX SIDES DRILLING MACHINE (EVOLUTION)",
+      "name01": "Promac",
+      "name02": "Evolution",
+      "slug": "evolution",
+      "content": [],
+      "model_one": "EVOLUTION",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Travel Range (X, Y, Z)",
+          "specs": [
+            "3000 x 1500 x 200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max Feed Rate (X, Y, Z)",
+          "specs": [
+            "130 x 85 x 25m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "The maximum processing speed",
+          "specs": [
+            "25m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "The minimum processing size (mm)",
+          "specs": [
+            "1220 Width"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle nose distance from the table",
+          "specs": [
+            "40x180"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Overall structure",
+          "specs": [
+            "30-230mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Transmission form",
+          "specs": [
+            "Gantry beam movement XY shaft rack drive (M1.5) ",
+            "Z-axis screw drive (2510)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Countertop structure",
+          "specs": [
+            "Air float bead table"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Top drilling spindle power ",
+          "specs": [
+            "3.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Below drilling spindle power ",
+          "specs": [
+            "3.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool Interface Type ",
+          "specs": [
+            "ER32 Collet"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drilling model ",
+          "specs": [
+            "12V+8H(2.2kw)"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drive System ",
+          "specs": [
+            "Servo"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Operating system ",
+          "specs": [
+            "Higerman"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Operation instructions",
+          "specs": [
+            "G code"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power, Voltage,Air Pressure ",
+          "specs": [
+            "45KW, 3P AC 380V/50HZ, ≧6.5Kgf/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Dimensions (Length, Width, Height)",
+          "specs": [
+            "5700x3050x2600mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight ",
+          "specs": [
+            "4050kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/drilltek-4s.png",
+      "heading": "MULTI BORER (4S-DRILLTEK)",
+      "name01": "Promac",
+      "name02": "4S-Drilltek",
+      "slug": "multi-borer-drilltek",
+      "content": [],
+      "model_one": "DRILLTEK-4S",
+      "model_two": "DRILLTEK 4D",
+      "specifications": [
+        {
+          "heading": "Distance between spindles",
+          "specs": [
+            "32mm"
+          ],
+          "anotherSpecs": [
+            "32mm"
+          ]
+        },
+        {
+          "heading": "No. of horizontal heads",
+          "specs": [
+            "2"
+          ],
+          "anotherSpecs": [
+            "2"
+          ]
+        },
+        {
+          "heading": "No. of Vertical Heads",
+          "specs": [
+            "2 (Single)"
+          ],
+          "anotherSpecs": [
+            "4 (Double)"
+          ]
+        },
+        {
+          "heading": "No. of Spindles per Heade",
+          "specs": [
+            "21Nos."
+          ],
+          "anotherSpecs": [
+            "21Nos."
+          ]
+        },
+        {
+          "heading": "Max. Panel thickness",
+          "specs": [
+            "60mm"
+          ],
+          "anotherSpecs": [
+            "60mm"
+          ]
+        },
+        {
+          "heading": "Min. Panel width",
+          "specs": [
+            "170mm"
+          ],
+          "anotherSpecs": [
+            "170mm"
+          ]
+        },
+        {
+          "heading": "Max. Panel width",
+          "specs": [
+            "2450mm"
+          ],
+          "anotherSpecs": [
+            "2450mm"
+          ]
+        },
+        {
+          "heading": "Vertical max. boring depth ",
+          "specs": [
+            "70mm"
+          ],
+          "anotherSpecs": [
+            "70mm"
+          ]
+        },
+        {
+          "heading": "Horizontal max. boring depth",
+          "specs": [
+            "40mm"
+          ],
+          "anotherSpecs": [
+            "40mm"
+          ]
+        },
+        {
+          "heading": "Max. vertical boring distance",
+          "specs": [
+            "2550mm"
+          ],
+          "anotherSpecs": [
+            "2550mm"
+          ]
+        },
+        {
+          "heading": "Min. vertical boring distance ",
+          "specs": [
+            "200mm"
+          ],
+          "anotherSpecs": [
+            "200mm"
+          ]
+        },
+        {
+          "heading": "Air consumption for single cycle",
+          "specs": [
+            "9L"
+          ],
+          "anotherSpecs": [
+            "9L"
+          ]
+        },
+        {
+          "heading": "Air consumption for total cycle",
+          "specs": [
+            "65L"
+          ],
+          "anotherSpecs": [
+            "65L"
+          ]
+        },
+        {
+          "heading": "Power required",
+          "specs": [
+            "6KW"
+          ],
+          "anotherSpecs": [
+            "6KW"
+          ]
+        },
+        {
+          "heading": "TPneumatic pressure",
+          "specs": [
+            "6-8Kg/Cm²"
+          ],
+          "anotherSpecs": [
+            "6-8Kg/Cm²"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/pl-120.png",
+      "heading": "HOT PRESS",
+      "name01": "Promac",
+      "name02": "PL-120",
+      "slug": "hot-press",
+      "content": [
+        {
+          "description": "The platens of the press are of solid steel plate duly machined and ground."
+        },
+        {
+          "description": "The heating medium is thermic fluid oil ensuring even and stable heating of the platen throughout to take care of thermal distortion."
+        },
+        {
+          "description": "Rigid construction to take care of thermal distortion"
+        }
+      ],
+      "model_one": "PL-120",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working Table Size",
+          "specs": [
+            "1300 x 2500 x 42mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Pressure",
+          "specs": [
+            "120T"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Platen Opening",
+          "specs": [
+            "400mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Oil Cylinder Dia",
+          "specs": [
+            "100mm x 6 pcs"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hydraulic Pump motor power",
+          "specs": [
+            "5.5 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Hot Oil Pump motor Power",
+          "specs": [
+            "2.2 KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Heating Platen power",
+          "specs": [
+            "1 x 18KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Approx. Weight",
+          "specs": [
+            "6800 kg"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/excel-1350.png",
+      "heading": "WIDE BELT SANDER (SEGMENTED PAD TYPE)",
+      "name01": "Promac",
+      "name02": "EXCEL - 1350",
+      "slug": "wide-belt-sander",
+      "content": [],
+      "model_one": "EXCEL - 1350",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working width",
+          "specs": [
+            "1350 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Sanding belts size",
+          "specs": [
+            "1370 x 2150 mm",
+            "on request: 1370 x 2650 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. working height",
+          "specs": [
+            "160 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "1st sanding belt speed",
+          "specs": [
+            "18 m/sec"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "2nd sanding belt speed",
+          "specs": [
+            "16 m/sec"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Feed speed from/to",
+          "specs": [
+            "m/1' 4 / 20"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Working table lifting motor power",
+          "specs": [
+            "0, 33 HP"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/door-master.png",
+      "heading": "CNC SOLID WOOD DOOR MACHINE (DOOR MASTER)",
+      "name01": "Promac",
+      "name02": "Door Master",
+      "slug": "door-master",
+      "content": [],
+      "model_one": "DOOR MASTER",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max. Feed Speed",
+          "specs": [
+            "45m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Speed",
+          "specs": [
+            "10m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Processing Length",
+          "specs": [
+            "2500 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Processing Thickness",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Arc Processing Depth",
+          "specs": [
+            "0-130mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Drilling depth",
+          "specs": [
+            "50mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Processing Angle Transmission",
+          "specs": [
+            "45/90/135",
+            "Y axis gear rack X/Z/W axis ball screw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power of No. 1 cutting converter motor (left-rotating)",
+          "specs": [
+            "9KW",
+            "12000r/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max speed of No. 1 cutting converter motor",
+          "specs": [
+            "35mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shaft diameter of No. 1 cutting converter motor",
+          "specs": [
+            "3.5KW / 3.5kw*2 / 3.5Kw*4"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power of drilling converter motor",
+          "specs": [
+            "12000r/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max speed of drilling converter motor",
+          "specs": [
+            "9KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power of No. 2 cutting converter motor (right-rotating)",
+          "specs": [
+            "12000r/min",
+            "35mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max speed of No. 2 cutting converter motor",
+          "specs": [],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Shaft diameter of No. 2 cutting converter motor",
+          "specs": [],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/lock-master.png",
+      "heading": "CNC DOOR LOCK MACHINE (LOCK MASTER)",
+      "name01": "Promac",
+      "name02": "Lock Master",
+      "slug": "lock-master",
+      "content": [],
+      "model_one": "LOCK MASTER",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max. Feed Speed",
+          "specs": [
+            "50m/min."
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Speed",
+          "specs": [
+            "20m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Processing Length",
+          "specs": [
+            "2400 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Processing Thickness",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Processing Width",
+          "specs": [
+            "1100mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Type of Transmission",
+          "specs": [
+            "X, Y axis with German Herion grinding rack",
+            "precision rack, Taiwan PMI guide square rail",
+            "Z axis with Taiwan grinding TBI precision ball screw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Table Structure",
+          "specs": [
+            "Two Schmitz strip tables, single strip table with four",
+            "Schmitz adsorption blocks, five Schmitz",
+            "positioning cylinders"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Motor Speed",
+          "specs": [
+            "Horizontal Spindle Motor: 7.5KW high power",
+            "manual tool changer 18000-24000 rpm/min",
+            "Vertical spindle motor : 9KW ",
+            "0-24000rpm/min; Air-cooled automatic",
+            "tool changer 0-24000 rpm/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Power, Voltage, Pressure",
+          "specs": [
+            "30KW、3P AC 380V/50HZ 、≧6.5Kgf/cm²"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Overall Dimensions",
+          "specs": [
+            "Width*length*height：3500x2300x2400（mm）"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cnc-machining-crafter.png",
+      "heading": "CNC MACHINING CENTRE CRAFTER",
+      "name01": "Promac",
+      "name02": "----",
+      "slug": "cnc-machining-crafter",
+      "content": [],
+      "model_one": "----",
+      "model_two": "",
+      "specifications": []
+    },
+    {
+      "id": 57,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/cnc-mortiser.png",
+      "heading": "CNC TENONER & MORTISER",
+      "name01": "Promac",
+      "name02": "----",
+      "slug": "cnc-tenoner-mortiser",
+      "content": [],
+      "model_one": "----",
+      "model_two": "",
+      "specifications": []
+    },
+    {
+      "id": 58,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/1330-ATCB.png",
+      "heading": "CNC MACHINING CENTER (1330 ATCB)",
+      "name01": "Promac",
+      "name02": "1330 ATCB",
+      "slug": "cnc-machining-center-1330atcb",
+      "content": [
+        {
+          "description": "1220 X 3000 X 200mm working size with Rotary tool (12 tools) machine with 12kw CC brand ATC spindle and Weihong NC 60"
+        },
+        {
+          "description": "A system use 1.5kw servo motor with PVC table vacuum table use 7.5kw two stage air cooling pump, include 5+4 boring group."
+        }
+      ],
+      "model_one": "1330ATCB",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table size",
+          "specs": [
+            "1220x3000x200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machining size",
+          "specs": [
+            "1220x3000x200mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main spindle",
+          "specs": [
+            "12KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drill package",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine / motor",
+          "specs": [
+            "Servo/0.7KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine size",
+          "specs": [
+            "12pcs ATC"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed X/Y/Z",
+          "specs": [
+            "100/100/30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum area",
+          "specs": [
+            "6 zones"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum capacity",
+          "specs": [
+            "5.5/244m/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum motor",
+          "specs": [
+            "5.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Servo driverpower X/Y/Z",
+          "specs": [
+            "1.5KW X4"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air pressure",
+          "specs": [
+            "6 bar"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption",
+          "specs": [
+            "800L/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction Hood DIA",
+          "specs": [
+            "200mm X1"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total power",
+          "specs": [
+            "25.6"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Gross weight",
+          "specs": [
+            "3500kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/1330-ATCB.png",
+      "heading": "CNC MACHINING CENTER (CNC-1360 ATCB)",
+      "name01": "Promac",
+      "name02": "CNC 1360 ATCB",
+      "slug": "cnc-machining-center-cnc-1360atcb",
+      "content": [
+        {
+          "description": "1220 X 6000 X 200mm working size with Rotary tool changer (12 tools) machine with 12kw CC brand ATC spindle and Weihong NC 60"
+        },
+        {
+          "description": "A system use 1.5kw servo motor with PVC table vacuum table use 7.5kw two stage air cooling pump, include 5+4 boring group."
+        }
+      ],
+      "model_one": "CNC 1360ATCB",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table size",
+          "specs": [
+            "1220 x 6000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machining size",
+          "specs": [
+            "1220 x 6000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main spindle",
+          "specs": [
+            "12KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drill package",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine / motor",
+          "specs": [
+            "Servo/0.7KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine size",
+          "specs": [
+            "12pcs ATC"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed X/Y/Z",
+          "specs": [
+            "100/100/30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum area",
+          "specs": [
+            "6 zones"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum capacity",
+          "specs": [
+            "5.5/244m/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum motor",
+          "specs": [
+            "5.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Servo driverpower X/Y/Z",
+          "specs": [
+            "1.5KW X4"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air pressure",
+          "specs": [
+            "6 bar"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption",
+          "specs": [
+            "800L/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction Hood DIA",
+          "specs": [
+            "200mm X1"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total power",
+          "specs": [
+            "25.6"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Gross weight",
+          "specs": [
+            "3500kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/2030-ATCB.png",
+      "heading": "CNC MACHINING CENTER (CNC-2030 ATCB)",
+      "name01": "Promac",
+      "name02": "CNC-2030 ATCB",
+      "slug": "cnc-machining-center-cnc-2030atcb",
+      "content": [
+        {
+          "description": " 2000 x 3000 x 200mm working size with Rotary tool changer (12 tools) machine with 12kw CC brand ATC spindle and Weihong NC 60"
+        },
+        {
+          "description": "A system use 1.5kw servo motor with PVC table vacuum table use 7.5kw two stage air cooling pump, include 5+4 boring group."
+        }
+      ],
+      "model_one": "CNC 2030ATCB",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table size",
+          "specs": [
+            "2000 x 3000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machining size",
+          "specs": [
+            "2000 x 3000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main spindle",
+          "specs": [
+            "12KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drill package",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine / motor",
+          "specs": [
+            "Servo/0.7KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine size",
+          "specs": [
+            "12pcs ATC"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed X/Y/Z",
+          "specs": [
+            "100/100/30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum area",
+          "specs": [
+            "6 zones"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum capacity",
+          "specs": [
+            "5.5/244m/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum motor",
+          "specs": [
+            "5.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Servo driverpower X/Y/Z",
+          "specs": [
+            "1.5KW X4"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air pressure",
+          "specs": [
+            "6 bar"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption",
+          "specs": [
+            "800L/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction Hood DIA",
+          "specs": [
+            "200mm X1"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total power",
+          "specs": [
+            "25.6"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Gross weight",
+          "specs": [
+            "3500kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "classnames": "project-item architecture building construction",
+      "srcimg": "/assets/img/project/2030-ATCB.png",
+      "heading": "CNC MACHINING CENTER (CNC-2060 ATCB)",
+      "name01": "Promac",
+      "name02": "CNC-2060 ATCB",
+      "slug": "cnc-machining-center-cnc-2060atcb",
+      "content": [
+        {
+          "description": "1220 X 6000 X 200mm working size with Rotary tool changer (12 tools) machine with 12kw CC brand ATC spindle and Weihong NC 60"
+        },
+        {
+          "description": "A system use 1.5kw servo motor with PVC table vacuum table use 7.5kw two stage air cooling pump, include 5+4 boring group."
+        }
+      ],
+      "model_one": "CNC-2060 ATCB",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Table size",
+          "specs": [
+            "2000 x 6000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Machining size",
+          "specs": [
+            "2000 x 6000 x 200 MM"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Main spindle",
+          "specs": [
+            "12KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Drill package",
+          "specs": [
+            "1.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine / motor",
+          "specs": [
+            "Servo/0.7KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Tool magazine size",
+          "specs": [
+            "12pcs ATC"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Speed X/Y/Z",
+          "specs": [
+            "100/100/30m/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum area",
+          "specs": [
+            "6 zones"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum capacity",
+          "specs": [
+            "5.5/244m/h"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Vaccum motor",
+          "specs": [
+            "5.5KW"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Servo driverpower X/Y/Z",
+          "specs": [
+            "1.5KW X4"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air pressure",
+          "specs": [
+            "6 bar"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Air consumption",
+          "specs": [
+            "800L/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Suction Hood DIA",
+          "specs": [
+            "200mm X1"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Total power",
+          "specs": [
+            "25.6"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Gross weight",
+          "specs": [
+            "3500kgs"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/3112C.png",
+      "heading": "DOUBLE END SLOT MORITSER (MS3112C)",
+      "name01": "Promac",
+      "name02": "MS3112C",
+      "slug": "double-end-slot-morister",
+      "content": [],
+      "model_one": "MS3112C",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Working Table Lifter Stroke",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "The Tilted angle of working table",
+          "specs": [
+            "20o"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Width",
+          "specs": [
+            "120 + 2Rmm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max. Working Depth",
+          "specs": [
+            "60 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "12000r/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Install Power",
+          "specs": [
+            "2.2kw"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "classnames": "project-item green",
+      "srcimg": "/assets/img/project/3113B.png",
+      "heading": "CNC TENONING MACHINE (MS3113B)",
+      "name01": "Promac",
+      "name02": "MS3113B",
+      "slug": "cnc-tenoning-machine",
+      "content": [],
+      "model_one": "MS3113B",
+      "model_two": "",
+      "specifications": [
+        {
+          "heading": "Max.Quadrate Tenoning Size",
+          "specs": [
+            "140x80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max.Horizontal Elliptical Tenoning Width",
+          "specs": [
+            "430/140mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max.Tenoning Width",
+          "specs": [
+            "80mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Max.Round Tenoning Diameter",
+          "specs": [
+            "80 mm"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Spindle Speed",
+          "specs": [
+            "9000r/min"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Install Power",
+          "specs": [
+            "5.5kw"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Weight",
+          "specs": [
+            "850kg"
+          ],
+          "anotherSpecs": []
+        },
+        {
+          "heading": "Overall Dimension",
+          "specs": [
+            "1930x1160x1840mm"
+          ],
+          "anotherSpecs": []
+        }
+      ]
+    }  
+  ]
+}

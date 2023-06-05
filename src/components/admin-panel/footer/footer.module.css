@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Assistant", sans-serif;
+  }
+.footer {
+  margin: 4rem 7rem;
+}
+.underline {
+  position: relative;
+  padding: 2rem 0;
+}
+.underline::before {
+  content: "";
+  position: absolute;
+  top: 55px;
+  left: 0;
+  background-color: black;
+  opacity: 0.25;
+  height: 0.5px;
+  width: 100%;
+  /* visibility: hidden; */
+  /* opacity: 0; */
+  transition: 0.4s;
+}
+.footer .footer_up {
+  display: flex;
+  gap: 10rem;
+}
+.footer .footer_up .footerHeading,
+.subHeading {
+  font-size: 18px;
+  font-weight: unset;
+  margin-bottom: 30px;
+  font-weight: 500 !important;
+}
+.footer .footer_up ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.underlineText,
+.footer .footer_up p {
+  color: rgb(112, 107, 107);
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration: none;
+}
+.underlineText:hover{
+  color: rgb(112, 107, 107);
+  border-bottom: 2px solid rgb(112, 107, 107) ;
+}
+.subscribe {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.subHeading {
+  margin-top: 40px;
+}
+.subscribe form {
+  position: relative;
+  width: 100%;
+}
+.subscribe form input {
+  padding: 12px;
+  width: 100%;
+  border: 1px solid #7d7d7d;
+  transition: 0.4s;
+}
+.subscribe form input:hover {
+  outline: 2px solid #7d7d7d;
+}
+.subscribe form label {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  color: rgb(112, 107, 107);
+}
+.subscribe form button {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: rgb(112, 107, 107);
+}
+.Footer_SocialIcons {
+  margin-top: 7rem;
+}
+.Footer_SocialIcons ul {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  gap: 30px;
+  font-size: 20px;
+  padding-left: 0;
+}
+.footerDown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0;
+  color: rgb(112, 107, 107);
+}
+
+@media (min-width: 320px) and (max-width: 576px) {
+  .footer {
+    margin: 2rem;
+  }
+  .footer .footer_up .footerHeading,
+  .subHeading {
+    margin-top: 30px;
+    font-size: 22px;
+  }
+  .Footer_SocialIcons {
+    margin-top: 2rem;
+  }
+  .Footer_SocialIcons ul {
+    justify-content: center;
+  }
+  .footerDown {
+    padding: 2rem 0;
+  }
+}
