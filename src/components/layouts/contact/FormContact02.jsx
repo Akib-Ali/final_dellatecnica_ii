@@ -50,8 +50,8 @@ const FormContact02 = () => {
         }
 
 
-        // await axios.post('https://wild-gold-bull-sock.cyclic.app/mail', body, {
-            await axios.post('/mail', body,{
+         await axios.post('https://wild-gold-bull-sock.cyclic.app/mail', body, {
+            // await axios.post('/mail', body,{
 
         
 
@@ -61,12 +61,12 @@ const FormContact02 = () => {
         }).then((res) => {
 
             setLoading(false)
-            toast('Thanks for connectng with us I will contact');
+            toast('Thanks for connectng with us. Our representative will contact you soon.');
             setName("")
             setEmail("")
             setphoneNumber("")
             setMessage("")
-             window.location.href="/"
+            //  window.location.href="/"
         }).catch((err) => {
             console.log(err)
         })

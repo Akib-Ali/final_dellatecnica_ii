@@ -1,5 +1,4 @@
 import Navbar from "../Navbar/navbar"
-import Footer from "../footer/footer"
 import { useState, useEffect } from "react"
 import axios from "axios"
 import 'react-responsive-modal/styles.css';

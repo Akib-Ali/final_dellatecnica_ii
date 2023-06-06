@@ -3,7 +3,6 @@ import { useState, useEffect } from "react"
 import axios from "axios"
 import 'react-responsive-modal/styles.css';
 import { Modal } from 'react-responsive-modal';
-import Footer from "../footer/footer";
 import { Audio, Grid, Oval } from 'react-loader-spinner'
 
 
@@ -107,26 +106,7 @@ const Comment = () => {
                             <th scope="col">ACTION</th>
                         </tr>
                     </thead>
-                    {/* <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody> */}
+              
 
                     {data.length > 0 && data.map((elem, index) => {
                         return (

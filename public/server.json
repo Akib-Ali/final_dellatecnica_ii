@@ -2730,7 +2730,7 @@
     {
       "id": 30,
       "classnames": "project-item villa architecture building construction",
-      "srcimg": "/assets/img/project/nc-1300.png",
+      "srcimg": "/assets/img/project/NC-1300.png",
       "heading": "CNC ROUTER (NC-1300ATC)",
       "name01": "Holzmac",
       "name02": "NC-1300-ATC",
@@ -4747,7 +4747,7 @@
     {
       "id": 47,
       "classnames": "project-item green",
-      "srcimg": "/assets/img/project/NM-4.png",
+      "srcimg": "/assets/img/project/nm-4.png",
       "heading": "CNC NESTING MACHINE – NM-4",
       "name01": "Promac",
       "name02": "NM-4",

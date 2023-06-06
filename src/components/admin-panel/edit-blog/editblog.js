@@ -1,5 +1,4 @@
 import Navbar from "../Navbar/navbar"
-import Footer from "../footer/footer"
 import { useEffect, useState, useRef } from "react";
 import { useParams } from "react-router-dom";
 import JoditEditor from 'jodit-react';
