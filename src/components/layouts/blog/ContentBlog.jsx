@@ -55,9 +55,6 @@ const ContentBlog = () => {
         }).then((res) => {
             setData(res.data)
             setLoading(false)
-
-
-            // console.log(res.data)
         }).catch((err) => {
             setError(err)
             setLoading(false)

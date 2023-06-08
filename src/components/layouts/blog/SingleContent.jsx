@@ -8,7 +8,7 @@ import ReCAPTCHA from "react-google-recaptcha";
 
 
 const SingleContent = ({ singleblog }) => {
-    // console.log(singleblog, "receive from props")
+    
 
     const [client_name, setclient_Name] = useState("");
     const [client_email, setclient_Email] = useState("")
@@ -23,7 +23,7 @@ const SingleContent = ({ singleblog }) => {
 
     const totalComments = comments.length
 
-    console.log(tags, "here i received data from tags usestate")
+
 
 
 

@@ -5,13 +5,14 @@ import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import axios from 'axios';
+import { Helmet } from 'react-helmet';
+
 
 
 const BlogDetails = () => {
 
     // const params = useParams()
     const { blog_slug } = useParams();
-    console.log(blog_slug, "id received from params")
     const [singleblog, setSingleBlog] = useState([])
     const [error, setError] = useState(false)
 
@@ -33,8 +34,12 @@ const BlogDetails = () => {
 
     }
 
+    const stripHtmlTags = (html) => {
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        return doc.body.textContent || '';
+    };
 
-    // console.log(singleblog, "data received from singleblog state")
+
 
 
 
@@ -57,6 +62,18 @@ const BlogDetails = () => {
     ]
     return <>
         <div className="header-fixed sidebar-right header-style-2 topbar-style-1 menu-has-search">
+
+            {/* helmet Start */}
+
+            <Helmet>
+                <meta name="title" content={singleblog.blog_title} />
+                <meta name="keywords" content={singleblog.blog_keyword} />
+                <meta name="description"
+                    content={stripHtmlTags(singleblog.blog_summary)} />
+            </Helmet>
+
+            {/* helmet end */}
+
             <div id="wrapper" className="animsition">
                 <div id="page" className="clearfix">
                     <div id="site-header-wrap">

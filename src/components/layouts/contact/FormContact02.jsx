@@ -82,7 +82,6 @@ const FormContact02 = () => {
 
 
     const handleRecaptha = (value) => {
-        // console.log(value, "received recaptha")
         setRecapthaValue(value)
 
     }

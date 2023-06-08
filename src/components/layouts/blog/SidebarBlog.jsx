@@ -42,7 +42,7 @@ const SidebarBlog = () => {
           }
     }
 
-    console.log(tags, "get tags from useState")
+
 
 
     return (
