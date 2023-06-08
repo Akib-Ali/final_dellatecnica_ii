@@ -3466,6 +3466,10 @@ body.page #main-content {
   #rev-slider1 {
     height: 413px !important;
   }
+  #site-logo #site-log-inner .main-logo img {
+    width: 267px !important;
+    height: 63px !important;
+  }
 }
 
 @media only screen and (max-width: 767px) {
@@ -3523,6 +3527,10 @@ body.page #main-content {
   }
   .widget.widget_text .textwidget img{
     width: 291px;
+  }
+  #site-logo #site-log-inner .main-logo img {
+    width: 224px !important;
+    height: 63px !important;
   }
 }
 
@@ -3613,8 +3621,8 @@ body.page #main-content {
   }
   /* logo styling in Media Query */
   #site-logo #site-log-inner .main-logo img {
-    width: 291px !important;
-    height: 84px !important;
+    width: 190px !important;
+    height: 58px !important;
   }
   /* footer styling */
   #footer-widgets .widget .widget-title span {

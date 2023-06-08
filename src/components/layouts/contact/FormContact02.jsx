@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { useState , useRef} from 'react';
+import { useState, useRef } from 'react';
 import axios from 'axios';
 import { Audio, Comment, ThreeDots } from 'react-loader-spinner'
 import { ToastContainer, toast } from 'react-toastify';
@@ -20,7 +20,7 @@ const FormContact02 = () => {
     const [loading, setImage] = useState(false)
     const [isLoading, setLoading] = useState(false);
     const [isEmailsent, setEmailSent] = useState(false)
-    const [recapthaValue, setRecapthaValue]= useState("")
+    const [recapthaValue, setRecapthaValue] = useState("")
 
 
 
@@ -34,7 +34,7 @@ const FormContact02 = () => {
     const handleEmail = async (event) => {
         event.preventDefault()
         capthaRef.current.reset()
-        if (!name || !email || !message || !phone_number  || !recapthaValue) {
+        if (!name || !email || !message || !phone_number || !recapthaValue) {
             setError(true)
             return false
         }
@@ -45,15 +45,15 @@ const FormContact02 = () => {
             name,
             email,
             message,
-            phone_number, 
+            phone_number,
             recapthaValue
         }
 
 
-         await axios.post('https://wild-gold-bull-sock.cyclic.app/mail', body, {
+        await axios.post('https://wild-gold-bull-sock.cyclic.app/mail', body, {
             // await axios.post('/mail', body,{
 
-        
+
 
             headers: {
                 'Content-type': 'application/json'
@@ -66,7 +66,7 @@ const FormContact02 = () => {
             setEmail("")
             setphoneNumber("")
             setMessage("")
-            //  window.location.href="/"
+            window.location.reload(true);
         }).catch((err) => {
             console.log(err)
         })
@@ -75,20 +75,20 @@ const FormContact02 = () => {
 
     }
 
-      //captha code 
-    const capthaRef= useRef()
+    //captha code 
+    const capthaRef = useRef()
 
     const SITE_KEY = "6LeK_WwmAAAAALXWUgvC-3gko0ONIhq1xkmlqqMr"
 
 
-    const handleRecaptha=(value)=>{
+    const handleRecaptha = (value) => {
         // console.log(value, "received recaptha")
         setRecapthaValue(value)
 
     }
     console.log(recapthaValue, "received from state")
 
-    
+
 
 
 
@@ -174,13 +174,17 @@ const FormContact02 = () => {
                                 <span className="wpcf7-form-control-wrap your-message mt-3">
 
                                     <ReCAPTCHA
-                                      sitekey={SITE_KEY}
-                                      onChange={handleRecaptha}
-                                      ref={capthaRef}
+                                        sitekey={SITE_KEY}
+                                        onChange={handleRecaptha}
+                                        ref={capthaRef}
                                     />
 
+                                    {error && !recapthaValue && <span className="form-text text-danger">Please select captcha </span>
+                                    }
                                 </span>
                                 {/* end recaptha div */}
+
+                                
                                 {isLoading ? <ThreeDots
                                     height="80"
                                     width="80"
@@ -202,7 +206,7 @@ const FormContact02 = () => {
                         </div>
                     </div>
                     <div className="col-md-8 my-5 my-lg-0">
-                        <div className="mapouter"><div className="gmap_canvas"><iframe id="gmap_canvas" src="http://maps.google.com/maps?q=1979/1,%20Lane%20No.%202,%20Ferozepur%20Rd,%20opposite%20Ansal%20Plaza,%20Maharaj%20Nagar,%20Ludhiana,%20Punjab%20141001&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" className='m-0'></iframe><a href="http://embedgooglemap.net/124/"></a><br /><a href="http://www.embedgooglemap.net"></a></div></div>
+                        <div className="mapouter"><div className="gmap_canvas"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=1979/1,%20Lane%20No.%202,%20Ferozepur%20Rd,%20opposite%20Ansal%20Plaza,%20Maharaj%20Nagar,%20Ludhiana,%20Punjab%20141001&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" className='m-0'></iframe><a href="https://embedgooglemap.net/124/"></a><br /><a href="https://www.embedgooglemap.net"></a></div></div>
                     </div>
                 </div>
 

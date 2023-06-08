@@ -1,8 +1,9 @@
-import React, { Component, useEffect, useState } from 'react';
+import React, { Component, useEffect, useState, useRef } from 'react';
 import { Link } from 'react-router-dom'
 import axios from 'axios';
 import { format } from 'date-fns';
 import { Audio, Comment, ThreeDots } from 'react-loader-spinner'
+import ReCAPTCHA from "react-google-recaptcha";
 
 
 
@@ -17,22 +18,41 @@ const SingleContent = ({ singleblog }) => {
     const [comments, setComments] = useState([])
     const [commenterror, setCommentError] = useState("")
     const [isloading, setLoading] = useState(false)
+    const [recapthaValue, setRecapthaValue] = useState("")
+    const [tags, setTags] = useState([]);
 
     const totalComments = comments.length
+
+    console.log(tags, "here i received data from tags usestate")
+
+
+
+    // Recaptha 
+    const capthaRef = useRef()
+    const SITE_KEY = "6LeK_WwmAAAAALXWUgvC-3gko0ONIhq1xkmlqqMr"
+
+    const handleRecaptha = (value) => {
+
+        setRecapthaValue(value)
+
+    }
+
+
 
 
 
     const handleComments = async (e) => {
         e.preventDefault()
         setLoading(true)
-        if (!client_name || !client_email || !client_message) {
+        capthaRef.current.reset()
+        if (!client_name || !client_email || !client_message || !recapthaValue) {
             setError(true)
             return false
 
         }
         let result = await fetch("https://wild-gold-bull-sock.cyclic.app/post-comment", {
             method: 'post',
-            body: JSON.stringify({ client_name, client_email, client_message, admin_approved }),
+            body: JSON.stringify({ client_name, client_email, client_message, admin_approved, recapthaValue }),
             headers: {
                 "Content-Type": "application/json"
             },
@@ -43,24 +63,33 @@ const SingleContent = ({ singleblog }) => {
         setclient_Message("")
         result = await result.json()
         setLoading(false)
+        window.location.reload(true);
+
 
     }
 
 
-     const filteredComments = comments.filter(
+    const filteredComments = comments.filter(
         (comment) => comment.admin_approved === 'yes'
     );
 
-     const filterlength = filteredComments.length;
+    const filterlength = filteredComments.length;
 
 
 
-
+    const extractTags = () => {
+        if (singleblog.blog_keyword) {
+            const newTags = singleblog.blog_keyword.split(",");
+            setTags(newTags);
+        }
+    };
 
 
     useEffect(() => {
+        extractTags(); // Call the extractTags function
         getAllComment()
-    }, [])
+
+    }, [singleblog])
 
 
 
@@ -77,9 +106,6 @@ const SingleContent = ({ singleblog }) => {
             setCommentError(error.message);
         }
     }
-
-    console.log(comments, "received all comments from state")
-    console.log(totalComments, "total comments")
 
 
 
@@ -148,11 +174,11 @@ const SingleContent = ({ singleblog }) => {
 
                         </div>
                         <div className="post-tags-socials clearfix">
-                            <div className="post-tags ">
-                                <span>Tag :</span>
-                                <a>{singleblog.blog_keyword}</a>
-                                {/* <a href="#">Panel Saw</a>
-                                <a href="#">Dellatecnica</a> */}
+                            <div className="post-tags">
+                                <span>Tags :</span>
+                                {tags.map((tag, index) => (
+                                    <a key={index}>{tag.trim()}</a>
+                                ))}
                             </div>
                             <div className="post-socials ">
                                 <a target='_blank' href="https://www.facebook.com/Dellatecnica.Machines/" className="facebook"><span className="fa fa-facebook-square" /></a>
@@ -166,19 +192,19 @@ const SingleContent = ({ singleblog }) => {
                 <div className="themesflat-pagination clearfix no-border padding-top-17">
                     <ul className="page-prev-next">
                         <li>
-                            <a  className="prev">
+                            <a className="prev">
                                 Previous Article
                             </a>
                         </li>
                         <li className="text-right">
-                            <a  className="next">
+                            <a className="next">
                                 Next Article
                             </a>
                         </li>
                     </ul>
                 </div>
                 <div id="comments" className="comments-area">
-                     <h2 className="comments-title">{filterlength} COMMENTS</h2> 
+                    <h2 className="comments-title">{filterlength} COMMENTS</h2>
 
                     {/* here start comment section  */}
 
@@ -257,10 +283,23 @@ const SingleContent = ({ singleblog }) => {
                                 {error && !client_message && <div className="form-text text-danger">Please enter a message</div>
                                 }
                             </fieldset>
+
+                            {/* captcha div start */}
+
+                            <fieldset className="message-wrap">
+                                <ReCAPTCHA
+                                    sitekey={SITE_KEY}
+                                    onChange={handleRecaptha}
+                                    ref={capthaRef}
+                                />
+
+                                {error && !recapthaValue && <span className="form-text text-danger">Please select captcha </span>
+                                }
+                            </fieldset>
+
+
+                            {/* capth div end */}
                             <p className="form-submit">
-
-
-
                                 {isloading ? <ThreeDots
                                     height="80"
                                     width="80"
@@ -275,10 +314,6 @@ const SingleContent = ({ singleblog }) => {
                                     <button id="comment-reply" className="submit" onClick={handleComments}>Send US</button>
 
                                 }
-
-
-                                <input type="hidden" name="comment_post_ID" defaultValue={100} id="comment_post_ID" />
-                                <input type="hidden" name="comment_parent" id="comment_parent" defaultValue={0} />
                             </p>
                         </form>
                     </div>

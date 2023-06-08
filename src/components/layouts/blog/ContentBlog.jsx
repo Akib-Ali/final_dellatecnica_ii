@@ -54,7 +54,6 @@ const ContentBlog = () => {
             url: "https://wild-gold-bull-sock.cyclic.app/blog-list"
         }).then((res) => {
             setData(res.data)
-
             setLoading(false)
 
 
@@ -79,14 +78,12 @@ const ContentBlog = () => {
 
 
                 }
-                {/* {data.length > 0 && data.map((data, index) => ( */}
+                
 
                 {data.length > 0 && currentBlogs.map((data, index) => (
                     <article className="hentry margin-top-33 padding-top-45 data-effect" key={index}>
-                        <Link to={`/blog-detail/${data._id}`} onClick={() => { window.location.href = `/blog-detail/${data._id}` }}>
-
-                            <div className="post-media data-effect-item has-effect-icon offset-v-25 offset-h-24 clerafix">
-                                <Link to="/blog-single"><img src={data.pic} alt="altimage" /></Link>
+                        <div className="post-media data-effect-item has-effect-icon offset-v-25 offset-h-24 clerafix">
+                                <Link  to={`blog/${data.blog_slug}`} onClick={() => { window.location.href = `blog/${data.blog_slug}` }}><img src={data.pic} alt="altimage" /></Link>
                                 <div className="post-calendar">
                                     <span className="inner">
                                         <span className="entry-calendar">
@@ -97,13 +94,13 @@ const ContentBlog = () => {
                                 </div>
                                 <div className="overlay-effect bg-color-1" />
                                 <div className="elm-link">
-                                    <Link to="/blog-single" className="icon-1" />
+                                    <Link to={`blog/${data.blog_slug}`} onClick={() => { window.location.href = `blog/${data.blog_slug}` }}className="icon-1" />
                                 </div>
                             </div>
                             <div className="post-content-wrap clearfix">
                                 <h2 className="post-title">
                                     <span className="post-title-inner">
-                                        <Link to="/blog-single">{data.blog_title}</Link>
+                                        <Link to={`blog/${data.blog_slug}`} onClick={() => { window.location.href = `blog/${data.blog_slug}` }}>{data.blog_title}</Link>
                                     </span>
                                 </h2>
                                 <div className="post-meta">
@@ -126,11 +123,11 @@ const ContentBlog = () => {
                                 </div>
                                 <div className="post-read-more">
                                     <div className="post-link">
-                                        <Link to="page-blog-single.html">READ MORE</Link>
+                                        <Link to={`blog/${data.blog_slug}`} onClick={() => { window.location.href = `blog/${data.blog_slug}` }}>READ MORE</Link>
                                     </div>
                                 </div>
                             </div>
-                        </Link>
+                        {/* </Link> */}
                     </article>
                 ))
                 }

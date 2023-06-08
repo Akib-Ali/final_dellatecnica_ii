@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import BannerTitle from '../layouts/about/banner/BannerTitle'
 import { TitleHeading, IconBox, About, Overview, Faq, ExhibitionSlider } from '../layouts/home01/index'
 import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
+import { Helmet } from 'react-helmet'
 
 class AboutUs extends Component {
     constructor(props) {
@@ -38,6 +39,11 @@ class AboutUs extends Component {
     render() {
         return (
             <div className="header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search">
+                <Helmet>
+                    <meta name="title" content="About-Us | DELLATECNICA" />
+                    <meta name="keywords" content=" About us, about DELLATECNICA, about DELLATECNICA machines" />
+                    <meta name="description" content="At DELLATECNICA, we understand the importance of quality in the woodworking industry, which is why we only offer the highest quality machines to our customers." />
+                </Helmet>
                 <div id="wrapper" className="animsition">
                     <div id="page" className="clearfix">
                         <div id="site-header-wrap">

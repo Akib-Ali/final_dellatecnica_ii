@@ -47,10 +47,10 @@ const CreateBlog = () => {
             validationErrors.blog_content = "Please enter the blog content";
         }
 
-        // if (Object.keys(validationErrors).length > 0) {
-        //     setError(validationErrors);
-        //     return;
-        // }
+        if (Object.keys(validationErrors).length > 0) {
+            setError(validationErrors);
+            return;
+        }
 
 
         const data = new FormData()
@@ -102,10 +102,6 @@ const CreateBlog = () => {
 
             }, 1000)
 
-
-            // .then(output => console.log(output, "final output"))
-
-
         }
     }, [pic])
 
@@ -121,14 +117,15 @@ const CreateBlog = () => {
             <div className="col-2xl">
                 <div className="card mb-4">
                     <div className="card-header d-flex justify-content-between align-items-center">
-                        <h5 className="mb-0">Create Blog Post</h5>
+                        <h5 className="mt-5">Create Blog Post</h5>
                         <small className="text-muted float-end">Dellatecnica</small>
                     </div>
                     <div className="card-body">
                         <form>
                             <div className="row">
+
                                 <div className="col-md-6">
-                                    <div className="mb-3">
+                                    <div className="mt-5">
                                         <label className="form-label" htmlFor="basic-default-fullname">Title</label>
                                         <input type="text" className="form-control" id="basic-default-fullname" placeholder="The Title for the Blog Post"
                                             name="blog_title"
@@ -137,11 +134,10 @@ const CreateBlog = () => {
                                         {error && !blog_title && <div className="form-text text-danger">Please Enter Blog Title</div>
                                         }
                                     </div>
-
-                                </div>
+                                 </div>
 
                                 <div className="col-md-6">
-                                    <div className="mb-3">
+                                    <div className="mt-5">
                                         <label className="form-label" htmlFor="basic-default-company">Slug</label>
                                         <input type="text" className="form-control" id="basic-default-company" placeholder="The Permalink/Slug for the Blog Post"
                                             name="blog_slug"
@@ -153,7 +149,7 @@ const CreateBlog = () => {
 
                                 </div>
                             </div>
-                            <div className="mb-3">
+                            <div className="mt-5">
                                 <label className="form-label" htmlFor="basic-default-email">Summary</label>
                                 <div className="input-group input-group-merge">
                                     <textarea id="basic-default-message" className="form-control" placeholder="Short Summary, Used as the Meta Description"
@@ -168,9 +164,9 @@ const CreateBlog = () => {
                             </div>
 
 
-                            <div className="mb-3">
-                                <label className="form-label" htmlFor="basic-default-phone">Keywords</label>
-                                <input type="text" id="basic-default-phone" className="form-control phone-mask" placeholder="Used as Meta Keywords"
+                            <div className="mt-5">
+                                <label className="form-label" htmlFor="basic-default-phone">Tags</label>
+                                <input type="text" id="basic-default-phone" className="form-control phone-mask" placeholder="Used as Meta Tags"
                                     name="blog_keyword"
                                     onChange={(e) => setBlog_Keyword(e.target.value)}
                                     autoComplete="off"
@@ -178,7 +174,7 @@ const CreateBlog = () => {
                                 {error && !blog_keyword && <div className="form-text text-danger">Please Enter Blog Keywords</div>
                                 }
                             </div>
-                            <div className="mb-3">
+                            <div className="mt-5">
                                 <label className="form-label" htmlFor="basic-default-email">Thumbnail(Preferred Size: 1440X810)</label>
                                 <div className="input-group input-group-merge">
                                     <input type="file" id="basic-default-email" className="form-control" placeholder="Short Summary,Used as the Meta Description" aria-label="john.doe" aria-describedby="basic-default-email2"
@@ -190,12 +186,9 @@ const CreateBlog = () => {
                                 }
                             </div>
 
-                            <div className="mb-3">
+                            <div className="mt-5">
                                 <label className="form-label" htmlFor="basic-default-message">Content</label>
-                                {/* <textarea id="basic-default-message" className="form-control"
-                                                    name="blog_content"
-                                                    onChange={(e) => setBlog_Content(e.target.value)}
-                                                /> */}
+                              
                                 <JoditEditor
                                     ref={editor}
                                     value={blog_content}
@@ -204,12 +197,9 @@ const CreateBlog = () => {
 
                                 />
 
-
-                                {/* {error && !blog_content && <div className="form-text text-danger">Please Enter Blog Content</div>
-                                                } */}
                             </div>
-                            <button type="submit" className="btn btn-primary"
-                                onClick={handleSubmit}
+                            <button type="submit" className="btn btn-primary "
+                                onClick={handleSubmit} 
                             >
                                 Create</button>
                         </form>

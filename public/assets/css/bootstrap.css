@@ -3040,8 +3040,12 @@ fieldset[disabled] a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #025aa5;
-  border-color: #01549b;
+  /* background-color: #025aa5; */
+  /* border-color: #01549b; */
+  background-color:white;
+  color:#E8AA42;
+  border-color: #E8AA42;
+
 }
 
 .btn-primary:focus,

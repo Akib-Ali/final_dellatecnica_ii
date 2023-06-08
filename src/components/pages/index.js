@@ -22,8 +22,7 @@ const routes = [
     { path: '/promac/:slug', component: ProductDetail },
     { path: '/page-testimonial', component: Testimonial },
     { path: '/blog', component: Blog },
-    // { path: '/blog-details', component: BlogDetails },
-    { path: '/blog-detail/:id', component: BlogDetails },
+    {path:'/blog/:blog_slug', component:BlogDetails},
     { path: '/contact-us', component: Contact },
     // admin panel route
     {path:'/all-blogs' , component:ShowBlog},

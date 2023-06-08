@@ -4,6 +4,7 @@ import { FormContact02, IconBox } from '../layouts/contact';
 import { TitleHeading } from '../layouts/home01/index'
 import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 import { Link } from "react-router-dom"
+import { Helmet } from 'react-helmet';
 
 const Contact = () => {
     const banners = [
@@ -27,6 +28,11 @@ const Contact = () => {
     ]
     return <>
         <div className="header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search">
+            <Helmet>
+                <meta name="title" content="Contact us for Woodworking machines |DELLATECNICA" />
+                <meta name="keywords" content=" contact us, DELLATECNICA, Woodworking machines, Best Woodworking machines, DELLATECNICA phone number, DELLATECNICA email id, DELLATECNICA address, DELLATECNICA office, contact now" />
+                <meta name="description" content="Are you looking for a Woodworking machines? Learn about our product range now and receive a free quote." />
+            </Helmet>
             <div id="wrapper" className="animsition">
                 <div id="page" className="clearfix">
                     <div id="site-header-wrap">

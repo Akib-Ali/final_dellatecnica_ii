@@ -110,11 +110,13 @@ const EditBlog = () => {
                             <form>
                                 <div className="row">
                                     <div className="col-md-6">
-                                        <div className="mb-3">
+                                        <div className="mt-5">
                                             <label className="form-label" htmlFor="basic-default-fullname">Update Title</label>
                                             <input type="text" className="form-control" id="basic-default-fullname" placeholder="The Title for the Blog Post"
                                                 name="blog_title"
-                                                onChange={(e) => setBlog_Title(e.target.value)} />
+                                                onChange={(e) => setBlog_Title(e.target.value)}
+                                                autoComplete="off"
+                                                />
                                             {/* {error && !blog_title && <div className="form-text text-danger">Please Enter Blog Title</div>
                                             } */}
                                         </div>
@@ -122,18 +124,21 @@ const EditBlog = () => {
                                     </div>
 
                                     <div className="col-md-6">
-                                        <div className="mb-3">
+                                        <div className="mt-5">
                                             <label className="form-label" htmlFor="basic-default-company">Update Slug</label>
                                             <input type="text" className="form-control" id="basic-default-company" placeholder="The Permalink/Slug for the Blog Post"
                                                 name="blog_slug"
-                                                onChange={(e) => setBlog_Slug(e.target.value)} />
+                                                onChange={(e) => setBlog_Slug(e.target.value)}
+                                                autoComplete="off"
+                                                
+                                                />
                                             {/* {error && !blog_slug && <div className="form-text text-danger">Please Enter Blog Slug</div>
                                             } */}
                                         </div>
 
                                     </div>
                                 </div>
-                                <div className="mb-3">
+                                <div className="mt-5">
                                     <label className="form-label" htmlFor="basic-default-email">Update Summary</label>
                                     <div className="input-group input-group-merge">
                                         <textarea id="basic-default-message" className="form-control" placeholder="Short Summary, Used as the Meta Description"
@@ -147,16 +152,17 @@ const EditBlog = () => {
                                 </div>
 
 
-                                <div className="mb-3">
-                                    <label className="form-label" htmlFor="basic-default-phone">Update Keywords</label>
-                                    <input type="text" id="basic-default-phone" className="form-control phone-mask" placeholder="Used as Meta Keywords"
+                                <div className="mt-5">
+                                    <label className="form-label" htmlFor="basic-default-phone">Update Tags</label>
+                                    <input type="text" id="basic-default-phone" className="form-control phone-mask" placeholder="Used as Meta Tags"
                                         name="blog_keyword"
                                         onChange={(e) => setBlog_Keyword(e.target.value)}
+                                        autoComplete="off"
                                     />
                                     {/* {error && !blog_keyword && <div className="form-text text-danger">Please Enter Blog Keywords</div>
                                     } */}
                                 </div>
-                                <div className="mb-3">
+                                <div className="mt-5">
                                     <label className="form-label" htmlFor="basic-default-email">Thumbnail(Preferred Size: 1440X810)</label>
                                     <div className="input-group input-group-merge">
                                         <input type="file" id="basic-default-email" className="form-control" placeholder="Short Summary,Used as the Meta Description" aria-label="john.doe" aria-describedby="basic-default-email2"
@@ -168,7 +174,7 @@ const EditBlog = () => {
                                     } */}
                                 </div>
 
-                                <div className="mb-3">
+                                <div className="mt-5">
                                     <label className="form-label" htmlFor="basic-default-message">Update Content</label>
                                     {/* <textarea id="basic-default-message" className="form-control"
                                                     name="blog_content"
