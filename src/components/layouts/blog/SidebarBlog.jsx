@@ -28,19 +28,36 @@ const SidebarBlog = () => {
         getTags()
     }, [])
 
-    const getTags = async () => {
+
+// const getTags = async () => {
         
-        try {
-            const response = await axios.get("https://wild-gold-bull-sock.cyclic.app/blog-list");
-            const tags = response.data.reduce((allTags, blog) => {
-              const blogTags = blog.blog_keyword.split(",");
-              return allTags.concat(blogTags.map(tag => tag.trim()));
-            }, []);
-            setTags(tags);
-          } catch (error) {
-            console.log(error);
-          }
+//     try {
+//         const response = await axios.get("https://wild-gold-bull-sock.cyclic.app/blog-list");
+//         const tags = response.data.reduce((allTags, blog) => {
+//           const blogTags = blog.blog_keyword.split(",").map(tag => tag.trim());
+//           return allTags.concat(blogTags);
+//         }, []);
+//         setTags(tags);
+//       } catch (error) {
+//         console.log(error);
+//       }
+// }
+
+const getTags = async () => {
+    try {
+      const response = await axios.get("https://wild-gold-bull-sock.cyclic.app/blog-list");
+      const tags = response.data.reduce((allTags, blog) => {
+        const blogTags = blog.blog_keyword.split(",").map(tag => tag.trim());
+        return allTags.concat(blogTags);
+      }, []).filter(tag => tag);
+      setTags(tags);
+    } catch (error) {
+      console.log(error);
     }
+  };
+
+
+
 
 
 

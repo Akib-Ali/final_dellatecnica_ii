@@ -21,7 +21,7 @@ const routes = [
     { path: '/holzmac/:slug', component: ProductDetail },
     { path: '/promac/:slug', component: ProductDetail },
     { path: '/page-testimonial', component: Testimonial },
-    { path: '/blog', component: Blog },
+    { path: '/blogs', component: Blog },
     {path:'/blog/:blog_slug', component:BlogDetails},
     { path: '/contact-us', component: Contact },
     // admin panel route

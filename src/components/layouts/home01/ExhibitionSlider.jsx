@@ -57,7 +57,7 @@ const ExhibitionSlider = () => {
                         data-column={1}
                         data-column2={1}
                         data-column3={1}
-                        data-auto="true"
+                        data-auto="false"
                     >
                         {/* <div className="themesflat-spacer clearfix" data-desktop={39} data-mobile={35} data-smobile={35} />
                         <div className="themesflat-spacer clearfix" data-desktop={39} data-mobile={35} data-smobile={35} /> */}

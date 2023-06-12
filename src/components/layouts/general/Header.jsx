@@ -42,9 +42,9 @@ class Header extends Component {
                                     </ul>
                                 </li>
 
-                                <li className={`menu-item menu-item-has-children ${location.pathname === '/blog' ? 'current-menu-item' : ''
+                                <li className={`menu-item menu-item-has-children ${location.pathname === '/blogs' ? 'current-menu-item' : ''
                                     }`}>
-                                    <a href="/blog" onClick={() => { window.location.href = "/blog" }}>Blog</a>
+                                    <a href="/blogs" onClick={() => { window.location.href = "/blogs" }}>Blog</a>
                                 </li>
                                 <li className={`menu-item menu-item-has-children ${location.pathname === '/contact-us' ? 'current-menu-item' : ''
                                     }`}>

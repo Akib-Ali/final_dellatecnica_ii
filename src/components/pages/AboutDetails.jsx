@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import BannerTitle from '../layouts/about/banner/BannerTitle'
-import {SideBar, SiteContent } from '../layouts/about/detail'
-import {Header, Footer, TopBar, BottomBar} from '../layouts/general/index'
+import { SideBar, SiteContent } from '../layouts/about/detail'
+import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 class AboutDetails extends Component {
     constructor(props) {
         super(props);
@@ -33,14 +33,14 @@ class AboutDetails extends Component {
                         <div id="site-header-wrap">
                             <TopBar />
                             {
-                                this.state.headers.map((data,idx) =>(
-                                    <Header data={data} key={idx}/>
+                                this.state.headers.map((data, idx) => (
+                                    <Header data={data} key={idx} />
                                 ))
                             }
                         </div>
                         {
-                            this.state.banners.map(data =>(
-                                <BannerTitle key={data.id} data={data}/>
+                            this.state.banners.map(data => (
+                                <BannerTitle key={data.id} data={data} />
                             ))
                         }
                         <div id="main-content" className="site-main clearfix">
@@ -52,8 +52,8 @@ class AboutDetails extends Component {
                     </div>
                     <Footer />
                     {
-                        this.state.headers.map((data,idx) =>(
-                            <BottomBar data={data} key={idx}/>
+                        this.state.headers.map((data, idx) => (
+                            <BottomBar data={data} key={idx} />
                         ))
                     }
                 </div>

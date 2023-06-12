@@ -76,13 +76,18 @@ const SingleContent = ({ singleblog }) => {
     const filterlength = filteredComments.length;
 
 
-
     const extractTags = () => {
         if (singleblog.blog_keyword) {
-            const newTags = singleblog.blog_keyword.split(",");
-            setTags(newTags);
+          const newTags = singleblog.blog_keyword.split(",").map(tag => tag.trim());
+          setTags(newTags);
+        } else {
+          setTags([]);
         }
-    };
+      };
+
+    
+
+      console.log(tags , "showed tags from blogdetail pag")
 
 
     useEffect(() => {
@@ -116,11 +121,7 @@ const SingleContent = ({ singleblog }) => {
                     <div className="post-media data-effect-item has-effect-icon offset-v-25 offset-h-24 clerafix">
                         <img src={singleblog.pic} alt="altimage" />
                         <div className="post-calendar">
-
-
-
-
-                            <span className="inner">
+                        <span className="inner">
                                 <span className="entry-calendar">
                                     <span className="day">{singleblog.createdAt ? format(new Date(singleblog.createdAt), 'dd') : ''}</span>
                                     <span className="month">{singleblog.createdAt ? format(new Date(singleblog.createdAt), 'MMMM') : ''}</span>
@@ -177,7 +178,7 @@ const SingleContent = ({ singleblog }) => {
                             <div className="post-tags">
                                 <span>Tags :</span>
                                 {tags.map((tag, index) => (
-                                    <a key={index}>{tag.trim()}</a>
+                                    tag && <a key={index}>{tag.trim()}</a>
                                 ))}
                             </div>
                             <div className="post-socials ">

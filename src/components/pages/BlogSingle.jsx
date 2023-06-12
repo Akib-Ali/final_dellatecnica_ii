@@ -34,6 +34,10 @@ const BlogDetails = () => {
 
     }
 
+    if (!singleblog) {
+        return null; // Render loading state or handle the case when the blog is not found
+    }
+
     const stripHtmlTags = (html) => {
         const doc = new DOMParser().parseFromString(html, 'text/html');
         return doc.body.textContent || '';
@@ -66,6 +70,7 @@ const BlogDetails = () => {
             {/* helmet Start */}
 
             <Helmet>
+                <title>{singleblog.blog_title}</title>
                 <meta name="title" content={singleblog.blog_title} />
                 <meta name="keywords" content={singleblog.blog_keyword} />
                 <meta name="description"

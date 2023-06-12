@@ -4,9 +4,13 @@ import { Slider, TitleHeading, IconBox, About, Service, Project, ServicesBox, Te
 import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 import { Counter } from '../layouts/about'
 import { Helmet } from 'react-helmet'
+import { Switch, Route, useLocation } from 'react-router-dom';
+import MetaTags from './Metatags'
+
 
 
 const Home01 = () => {
+
     const headingchoose = [
         {
             id: 1,
@@ -41,8 +45,9 @@ const Home01 = () => {
             classtext: 'sub-heading font-weight-400',
             text: 'Are you interested in finding out how we can make your project a success? Please constact us.'
         }
-
     ]
+
+
     return <>
         <div className="header-fixed page no-sidebar header-style-2 topbar-style-2 menu-has-search">
 
@@ -51,6 +56,11 @@ const Home01 = () => {
                 <meta name="keywords" content="Best Woodworking and Panel Processing Machines, Panel Processing Machines, Woodworking Machinery in India, Woodworking Machines, DELLATECNICA,  Woodworking  equipments, PROMAC Panel Processing, HOLZMAC Panel Processing Machines, CNC Machine Manufacturers in Ludhiana, Panel saw, Automatic Throughfeed edge banding Machine, Corner Rounding Machine, Dust Collectors, CNC Machines, High tech CNC Machines, Best Woodworking Machine Brands, Woodworking tools, Panel Processing Woodworking Machinery, Durable Woodworking Machines, Woodworking machine manufacturer, Woodworking machines in India" />
                 <meta name="description" content="DELLATECNICA provides best variety of Woodworking and Panel Processing Machines. We offer top quality woodworking equipments of Holzmac and Promac Brand having machines like Panel saw, Beam Saw, Curvilinear Edge Bander, Automatic Throughfeed edge banding  Machine, CNC Nesting Machine and many more." />
             </Helmet>
+
+
+
+
+
             <div id="wrapper" className="animsition">
                 <div id="page" className="clearfix">
                     <div id="site-header-wrap">
@@ -175,7 +185,8 @@ const Home01 = () => {
                                             </div>
                                         </div>
                                         <div className='youTube_video'>
-                                            <iframe width="100%" height="500" src="https://www.youtube.com/embed/wpcvEIPhgtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                            <iframe width="100%" height="500px" class="bts_video_height"
+                                                src="https://www.youtube.com/embed/wpcvEIPhgtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                         </div>
                                         <Testimonial />
                                         <div className="row-quote bg-row-1">

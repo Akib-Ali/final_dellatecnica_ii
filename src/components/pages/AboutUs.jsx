@@ -3,8 +3,12 @@ import BannerTitle from '../layouts/about/banner/BannerTitle'
 import { TitleHeading, IconBox, About, Overview, Faq, ExhibitionSlider } from '../layouts/home01/index'
 import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 import { Helmet } from 'react-helmet'
+import { Switch, Route, useLocation } from 'react-router-dom';
+
 
 class AboutUs extends Component {
+
+
     constructor(props) {
         super(props);
         this.state = {
@@ -36,6 +40,10 @@ class AboutUs extends Component {
             ]
         }
     }
+
+
+
+
     render() {
         return (
             <div className="header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search">

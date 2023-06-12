@@ -16,7 +16,7 @@
   
         background-color: #0c0000;
         box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
-        height:140px
+        /* height:140px */
    }
   
   header .navUpper {
@@ -144,9 +144,9 @@
   }
   
   @media (min-width: 320px) and (max-width: 991px) {
-    header{
+    /* header{
       height: 95px;
-    }
+    } */
     header .navUpper {
       padding: 10px 20px;
       font-size: 11px;

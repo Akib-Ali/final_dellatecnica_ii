@@ -5,8 +5,32 @@ import { TitleHeading } from '../layouts/home01/index'
 import { Header, Footer, TopBar, BottomBar } from '../layouts/general/index'
 import { Link } from "react-router-dom"
 import { Helmet } from 'react-helmet';
+import { Switch, Route, useLocation } from 'react-router-dom';
+import MetaTags from './Metatags'
+
 
 const Contact = () => {
+    const location = useLocation();
+
+    //meta tags here used
+    const metaTags = {
+        '/': {
+            title: 'Best Woodworking and Panel Processing Machines | DELLATECNICA',
+            keywords: 'Best Woodworking and Panel Processing Machines, Panel Processing Machines, Woodworking Machinery in India, Woodworking Machines, DELLATECNICA, Woodworking equipments, PROMAC Panel Processing, HOLZMAC Panel Processing Machines, CNC Machine Manufacturers in Ludhiana, Panel saw, Automatic Throughfeed edge banding Machine, Corner Rounding Machine, Dust Collectors, CNC Machines, High tech CNC Machines, Best Woodworking Machine Brands, Woodworking tools, Panel Processing Woodworking Machinery, Durable Woodworking Machines, Woodworking machine manufacturer, Woodworking machines in India',
+            description: 'DELLATECNICA provides best variety of Woodworking and Panel Processing Machines. We offer top quality woodworking equipments of Holzmac and Promac Brand having machines like Panel saw, Beam Saw, Curvilinear Edge Bander, Automatic Throughfeed edge banding  Machine, CNC Nesting Machine and many more.'
+        },
+        '/contact-us': {
+            title: 'Contact us for Woodworking machines |DELLATECNICA',
+            keywords: 'contact us, DELLATECNICA, Woodworking machines, Best Woodworking machines, DELLATECNICA phone number, DELLATECNICA email id, DELLATECNICA address, DELLATECNICA office, contact now',
+            description: 'Are you looking for a Woodworking machines? Learn about our product range now and receive a free quote.'
+        },
+        // Add more pages and their respective meta tags here
+    };
+
+    const currentPageMetaTags = metaTags[location.pathname] || {};
+
+
+
     const banners = [
         {
             id: 1,
@@ -28,11 +52,13 @@ const Contact = () => {
     ]
     return <>
         <div className="header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search">
-            <Helmet>
+             {/* <Helmet>
                 <meta name="title" content="Contact us for Woodworking machines |DELLATECNICA" />
                 <meta name="keywords" content=" contact us, DELLATECNICA, Woodworking machines, Best Woodworking machines, DELLATECNICA phone number, DELLATECNICA email id, DELLATECNICA address, DELLATECNICA office, contact now" />
                 <meta name="description" content="Are you looking for a Woodworking machines? Learn about our product range now and receive a free quote." />
-            </Helmet>
+            </Helmet> */}
+
+            <MetaTags/>
             <div id="wrapper" className="animsition">
                 <div id="page" className="clearfix">
                     <div id="site-header-wrap">

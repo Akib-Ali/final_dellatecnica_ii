@@ -34,7 +34,7 @@ const Blog = () => {
     return (
         <div className="header-fixed sidebar-right header-style-2 topbar-style-1 menu-has-search">
 
-      <div id="wrapper" className="animsition">
+            <div id="wrapper" className="animsition">
                 <div id="page" className="clearfix">
                     <div id="site-header-wrap">
                         <TopBar />
